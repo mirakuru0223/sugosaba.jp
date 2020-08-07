@@ -1,0 +1,880 @@
+[11:28:08] [DEBUG] [TrustManagerBuilder]: Certificate list /certificates/extended.txt not present in classpath.
+[11:28:09] [DEBUG] [PlayerManager]: ResamplingQuality is LOW(not HIGH), Setting Quality to HIGH
+[11:28:09] [INFO] [Startup]: C:\Users\Owner\Desktop\Botフォルダ\凄鯖Bot\config.txt から設定を読み込みました
+[11:28:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd15525afbfbe0-KIX]
+[11:28:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1552cbeefbe0-KIX]
+[11:28:10] [INFO] [JDA]: Login Successful!
+[11:28:11] [INFO] [WebSocketClient]: Connected to WebSocket
+[11:28:11] [DEBUG] [WebSocketClient]: Sending Identify-packet...
+[11:28:11] [DEBUG] [WebSocketClient]: Got HELLO packet (OP 10). Initializing keep-alive.
+[11:28:11] [DEBUG] [WebSocketClient]: Received a _trace for HELLO (OP: 10) with ["[\"gateway-prd-main-zm6l\",{\"micros\":0.0}]"]
+[11:28:11] [DEBUG] [WebSocketClient]: Received a _trace for READY (OP: 0) with ["[\"gateway-prd-main-zm6l\",{\"micros\":111080,\"calls\":[\"discord-sessions-prd-1-48\",{\"micros\":108354,\"calls\":[\"start_session\",{\"micros\":105188,\"calls\":[\"api-prd-main-4n85\",{\"micros\":101790,\"calls\":[\"get_user\",{\"micros\":10303},\"add_authorized_ip\",{\"micros\":18075},\"get_guilds\",{\"micros\":13580},\"coros_wait\",{\"micros\":2}]}]},\"guilds_connect\",{\"micros\":30,\"calls\":[]},\"presence_connect\",{\"micros\":2,\"calls\":[]}]}]}]"]
+[11:28:11] [DEBUG] [GuildSetupController]: Setting incomplete count to 3
+[11:28:11] [DEBUG] [GuildSetupController]: Finished setup for guild 611477431441686540 firing cached events 0
+[11:28:12] [DEBUG] [GuildSetupController]: Finished setup for guild 602446508289163284 firing cached events 0
+[11:28:12] [INFO] [JDA]: Finished Loading!
+[11:28:12] [DEBUG] [GuildSetupController]: Finished setup for guild 710329745958502441 firing cached events 0
+[11:28:12] [DEBUG] [WebSocketClient]: Sending normal message {"op":3,"d":{"game":{"name":"公式サイト→ https://sugosabajp.memo.wiki/","type":0},"afk":false,"status":"online","since":1596594492101}}
+[11:35:07] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":602446508289163284,"channel_id":740397314224685107,"self_mute":false}}
+[11:35:07] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1f7f3dbeaef1-KIX]
+[11:35:08] [DEBUG] [AudioWebSocket]: Using encryption mode xsalsa20_poly1305_lite
+[11:35:09] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=I5DgRDcC_xw&t=2s using YoutubeAudioSourceManager.
+[11:35:09] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[11:35:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1f8d8f00aef1-KIX]
+[11:35:09] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track I5DgRDcC_xw locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[11:35:10] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=vpYoz5Pn0cY&t=4s using YoutubeAudioSourceManager.
+[11:35:10] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":621895,"width":1280,"height":720,"lastModified":"1540628696355436","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"402192","audioSampleRate":"44100","audioChannels":2,"signatureCipher":"s=QOq0eJ8wRQIgCDCGVj9UWS06AXwchJHDP1I7p0q6Smzjvv7tR-PhS8QCIQDY4CEo0A8I25u5f7RC7G3oUgASTBmau-naJlVdXhA%3DMg%3Dag%3D6&sp=sig&url=https://r2---sn-3pm7sne7.googlevideo.com/videoplayback%3Fexpire%3D1596616510%26ei%3D3hoqX_bzJouFgQOOlKyIDg%26ip%3D219.161.81.129%26id%3Do-AKSFVkKQQ45pp0DtmyuIcA70LzxXKH_N2qaDCV-QXhAQ%26itag%3D22%26source%3Dyoutube%26requiressl%3Dyes%26mh%3D5N%26mm%3D31%252C29%26mn%3Dsn-3pm7sne7%252Csn-3pm76n76%26ms%3Dau%252Crdu%26mv%3Dm%26mvi%3D2%26pl%3D14%26gcr%3Djp%26initcwndbps%3D1501250%26vprv%3D1%26mime%3Dvideo%252Fmp4%26ratebypass%3Dyes%26dur%3D402.192%26lmt%3D1540628696355436%26mt%3D1596594829%26fvip%3D2%26fexp%3D23883098%26beids%3D9466587%26c%3DWEB%26txp%3D5431432%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cgcr%252Cvprv%252Cmime%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRgIhALU2kgm0E5CdCDUWG3Ji9pXTwMhQTPq6Vbqae3A9_dstAiEA-DeXPybezwbYS3PbTQfev6knGfP10IpWbuDaYRyi0EY%253D"}, skipping
+[11:35:10] [DEBUG] [YoutubeSignatureCipherManager]: Parsing cipher from player script /s/player/e49bfb00/player_ias.vflset/ja_JP/base.js.
+[11:35:10] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=TcYYa8oF86w using YoutubeAudioSourceManager.
+[11:35:10] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r2---sn-3pm7sne7.googlevideo.com/videoplayback?expire=1596616510&ei=3hoqX_bzJouFgQOOlKyIDg&ip=219.161.81.129&id=o-AKSFVkKQQ45pp0DtmyuIcA70LzxXKH_N2qaDCV-QXhAQ&itag=251&source=youtube&requiressl=yes&mh=5N&mm=31%2C29&mn=sn-3pm7sne7%2Csn-3pm76n76&ms=au%2Crdu&mv=m&mvi=2&pl=14&gcr=jp&initcwndbps=1501250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6741176&dur=402.161&lmt=1540630785127507&mt=1596594829&fvip=2&keepalive=yes&fexp=23883098&beids=9466587&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIW3w8KwNY5jKWJ4mv5Om3Ezk8DommX1VltLpWEWIldAAiBP_dOxNNX9DSmio1FJGej6pOzsI-WZwFbh2yx1EFif_g%3D%3D&ratebypass=yes&sig=AOq0QJ8wRgIhAN3e3G4yvGaYiwE_O6G-_1WTfHv0w-PdkYM3xypncSEsAiEArt1oo612n8POPn1iLTR0tGeeSuODh4WgttQZtWk5aEc%3D
+[11:35:11] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[11:35:11] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=ixtaG7vRsR0&t=386s using YoutubeAudioSourceManager.
+[11:35:11] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=o9tMNFQE4Og using YoutubeAudioSourceManager.
+[11:35:12] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=Bgt5cezbjHg&t=2s using YoutubeAudioSourceManager.
+[11:35:12] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=ID0Nlk4jjTE using YoutubeAudioSourceManager.
+[11:35:13] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=h5N31z2CDrM using YoutubeAudioSourceManager.
+[11:35:13] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track I5DgRDcC_xw
+[11:35:13] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[11:35:13] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[11:35:13] [DEBUG] [LocalAudioTrackExecutor]: Playing track I5DgRDcC_xw finished or was stopped.
+[11:35:13] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=Ar5AVOoOaVo&t=2s using YoutubeAudioSourceManager.
+[11:35:13] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fa50f1faef1-KIX]
+[11:35:13] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track vpYoz5Pn0cY locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[11:35:13] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fa4ff18aef1-KIX]
+[11:35:14] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=ZZWoBhFYQLk using YoutubeAudioSourceManager.
+[11:35:14] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r4---sn-3pm7dn7d.googlevideo.com/videoplayback?expire=1596616514&ei=4hoqX5PBGInOgAPA5aDgCw&ip=219.161.81.129&id=o-ALGrarfdWy4sCe8jVR90jthkPhO2O2zQQAbKr_PKe96I&itag=22&source=youtube&requiressl=yes&mh=r0&mm=31%2C26&mn=sn-3pm7dn7d%2Csn-ogueln7s&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1458750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=337.896&lmt=1545625968845631&mt=1596594829&fvip=4&fexp=23883098&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIBRyXMbQyZQgqaN7EgMbS1zo-4wn56fv5D4QKIikrFSAiEA34K_P8BctBy67KqlCpQb5DCfrtK5h5Qii-AqBRwXm_g%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOyDIIa72kSNCWu8yZfWz4DPnw6FmEV1byBj4Sa8nQoqAiABxydUUQNogNY0qdEMn94gDwrIaOOGia3UunMKPWvECQ%3D%3D","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":733587,"width":1280,"height":720,"lastModified":"1545625968845631","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"337896","audioSampleRate":"44100","audioChannels":2}, skipping
+[11:35:14] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r4---sn-3pm7dn7d.googlevideo.com/videoplayback?expire=1596616514&ei=4hoqX5PBGInOgAPA5aDgCw&ip=219.161.81.129&id=o-ALGrarfdWy4sCe8jVR90jthkPhO2O2zQQAbKr_PKe96I&itag=251&source=youtube&requiressl=yes&mh=r0&mm=31%2C26&mn=sn-3pm7dn7d%2Csn-ogueln7s&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1458750&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4883927&dur=337.861&lmt=1545627240729645&mt=1596594829&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhALILufl5xwnYq440GSOZMtpCE47InLf90OqR8CyCuN0IAiAQ5406pb1OTsikch0Qsm-6vv7mGa2UffQRVQRKRJEWUw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOyDIIa72kSNCWu8yZfWz4DPnw6FmEV1byBj4Sa8nQoqAiABxydUUQNogNY0qdEMn94gDwrIaOOGia3UunMKPWvECQ%3D%3D
+[11:35:14] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[11:35:14] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=K41zO0yA2X0 using YoutubeAudioSourceManager.
+[11:35:15] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/mmIevLsPJPQ using YoutubeAudioSourceManager.
+[11:35:15] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/8YgVjbvT-i4 using YoutubeAudioSourceManager.
+[11:35:16] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/hwBhMEZls34 using YoutubeAudioSourceManager.
+[11:35:16] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/1S0545cxziY using YoutubeAudioSourceManager.
+[11:35:16] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/KHsOuTstUmA using YoutubeAudioSourceManager.
+[11:35:17] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/e4peiYgnsAE using YoutubeAudioSourceManager.
+[11:35:17] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/eGQv2DPeIXg using YoutubeAudioSourceManager.
+[11:35:17] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/iCVUx67OxQo using YoutubeAudioSourceManager.
+[11:35:18] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/vQc10JS5QLo using YoutubeAudioSourceManager.
+[11:35:18] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=6lcJPXVRERs using YoutubeAudioSourceManager.
+[11:35:18] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/D3H0y0dYwyo using YoutubeAudioSourceManager.
+[11:35:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fc83874aef1-KIX]
+[11:35:19] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/EMZdaPE1ojo using YoutubeAudioSourceManager.
+[11:35:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fca59e4aef1-KIX]
+[11:35:19] [DEBUG] [RateLimiter]: Backing off 250 milliseconds on route /channels/694138626920939600/messages/{message_id}/reactions/{reaction_code}/@me
+[11:35:19] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/ePFkN0vbzHY using YoutubeAudioSourceManager.
+[11:35:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fcd9c1faef1-KIX]
+[11:35:20] [DEBUG] [RateLimiter]: Backing off 249 milliseconds on route /channels/694138626920939600/messages/{message_id}/reactions/{reaction_code}/@me
+[11:35:20] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/Gn8Pofrf0Cw using YoutubeAudioSourceManager.
+[11:35:20] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/I-hotHxAkA4 using YoutubeAudioSourceManager.
+[11:35:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fd08e20aef1-KIX]
+[11:35:21] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/zdm9aI2EU-A using YoutubeAudioSourceManager.
+[11:35:21] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/fgm-XmTZFj8 using YoutubeAudioSourceManager.
+[11:35:21] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/qikQ5pUvo1w using YoutubeAudioSourceManager.
+[11:35:22] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/SffjQDpS2K8 using YoutubeAudioSourceManager.
+[11:35:22] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/Ei_4LRPO4Tk using YoutubeAudioSourceManager.
+[11:35:22] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd1fde6e9eaef1-KIX]
+[11:35:30] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track vpYoz5Pn0cY
+[11:35:30] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[11:35:30] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[11:35:30] [DEBUG] [LocalAudioTrackExecutor]: Playing track vpYoz5Pn0cY finished or was stopped.
+[11:35:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd200ddf16aef1-KIX]
+[11:35:30] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[11:35:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd200ddf17aef1-KIX]
+[11:35:30] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track TcYYa8oF86w locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[11:35:30] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596616531&ei=8xoqX6G8C8iklQT277iwBA&ip=219.161.81.129&id=o-AEPfOQuM-L4i60baWG-seSa7MpzLJ0ChduY2lCYak1pn&itag=22&source=youtube&requiressl=yes&mh=0Y&mm=31%2C29&mn=sn-3pm76n7d%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1375000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=352.757&lmt=1572262106322221&mt=1596594829&fvip=3&fexp=23883098&c=WEB&txp=5306222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPNbiG1tot7jCvNCcjfolVydNAm_QQaTGdR0Pkscj2cvAiEAu_vKGLRWUVWGFw4Qjm3udIEhOJpZ-xKDfMfvkVUtdao%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAK-AANsXa2otstg2F199aPfGLeMtcvPGTsebjpIKW8YbAiEAlCvZrySa3PM9CJayYs7oVAaGaS0HyG3e6Z_9zPp_DRs%3D","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":567681,"width":1280,"height":720,"lastModified":"1572262106322221","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"352757","audioSampleRate":"44100","audioChannels":2}, skipping
+[11:35:30] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596616531&ei=8xoqX6G8C8iklQT277iwBA&ip=219.161.81.129&id=o-AEPfOQuM-L4i60baWG-seSa7MpzLJ0ChduY2lCYak1pn&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C29&mn=sn-3pm76n7d%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1375000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596594829&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAL4Cafkyq9hvmRLuFL4kRUmgp8Kg6qWIJFkAi9ciejHyAiBZuPc7BMQXVrK32ejvwIyhMR1cde16K2XZTCdakMxMww%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAK-AANsXa2otstg2F199aPfGLeMtcvPGTsebjpIKW8YbAiEAlCvZrySa3PM9CJayYs7oVAaGaS0HyG3e6Z_9zPp_DRs%3D
+[11:35:31] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[11:36:13] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd211c884caef1-KIX]
+[11:36:19] [INFO] [Volume]: 凄鯖！での音量が100から150に変更されました。
+[11:36:19] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[11:36:19] [INFO] [NativeLibraryLoader]: Native library libmpg123-0: loading with filter com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader$$Lambda$325/1110199324@4b22dba1
+[11:36:19] [DEBUG] [ResourceNativeLibraryBinaryProvider]: Native library libmpg123-0: trying to find from resources at /natives/win-x86-64/libmpg123-0.dll with com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader as classloader reference
+[11:36:19] [DEBUG] [NativeLibraryLoader]: Native library libmpg123-0: detected C:\Users\Owner\AppData\Local\Temp\lava-jni-natives as base directory for extraction.
+[11:36:19] [DEBUG] [NativeLibraryLoader]: Native library libmpg123-0: extraction directory C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596594979144 does not exist, creating.
+[11:36:19] [DEBUG] [NativeLibraryLoader]: Native library libmpg123-0: attempting to load library at C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596594979144\libmpg123-0.dll
+[11:36:19] [INFO] [NativeLibraryLoader]: Native library libmpg123-0: successfully loaded.
+[11:36:19] [INFO] [NativeLibraryLoader]: Native library connector: loading with filter null
+[11:36:19] [DEBUG] [ResourceNativeLibraryBinaryProvider]: Native library connector: trying to find from resources at /natives/win-x86-64/connector.dll with com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader as classloader reference
+[11:36:19] [DEBUG] [NativeLibraryLoader]: Native library connector: detected C:\Users\Owner\AppData\Local\Temp\lava-jni-natives as base directory for extraction.
+[11:36:19] [DEBUG] [NativeLibraryLoader]: Native library connector: extraction directory C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596594979226 does not exist, creating.
+[11:36:19] [DEBUG] [NativeLibraryLoader]: Native library connector: attempting to load library at C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596594979226\connector.dll
+[11:36:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd213f1fa4aef1-KIX]
+[11:36:19] [INFO] [NativeLibraryLoader]: Native library connector: successfully loaded.
+[11:36:19] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 231 buffered frames.
+[11:36:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd21494f17aef1-KIX]
+[11:39:53] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596616531&ei=8xoqX6G8C8iklQT277iwBA&ip=219.161.81.129&id=o-AEPfOQuM-L4i60baWG-seSa7MpzLJ0ChduY2lCYak1pn&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C29&mn=sn-3pm76n7d%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1375000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596594829&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAL4Cafkyq9hvmRLuFL4kRUmgp8Kg6qWIJFkAi9ciejHyAiBZuPc7BMQXVrK32ejvwIyhMR1cde16K2XZTCdakMxMww%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAK-AANsXa2otstg2F199aPfGLeMtcvPGTsebjpIKW8YbAiEAlCvZrySa3PM9CJayYs7oVAaGaS0HyG3e6Z_9zPp_DRs%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[11:40:24] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596616531&ei=8xoqX6G8C8iklQT277iwBA&ip=219.161.81.129&id=o-AEPfOQuM-L4i60baWG-seSa7MpzLJ0ChduY2lCYak1pn&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C29&mn=sn-3pm76n7d%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1375000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596594829&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAL4Cafkyq9hvmRLuFL4kRUmgp8Kg6qWIJFkAi9ciejHyAiBZuPc7BMQXVrK32ejvwIyhMR1cde16K2XZTCdakMxMww%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAK-AANsXa2otstg2F199aPfGLeMtcvPGTsebjpIKW8YbAiEAlCvZrySa3PM9CJayYs7oVAaGaS0HyG3e6Z_9zPp_DRs%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[11:40:50] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596616531&ei=8xoqX6G8C8iklQT277iwBA&ip=219.161.81.129&id=o-AEPfOQuM-L4i60baWG-seSa7MpzLJ0ChduY2lCYak1pn&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C29&mn=sn-3pm76n7d%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1375000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596594829&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAL4Cafkyq9hvmRLuFL4kRUmgp8Kg6qWIJFkAi9ciejHyAiBZuPc7BMQXVrK32ejvwIyhMR1cde16K2XZTCdakMxMww%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAK-AANsXa2otstg2F199aPfGLeMtcvPGTsebjpIKW8YbAiEAlCvZrySa3PM9CJayYs7oVAaGaS0HyG3e6Z_9zPp_DRs%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[11:41:23] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[11:41:23] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[11:41:23] [DEBUG] [LocalAudioTrackExecutor]: Playing track TcYYa8oF86w finished or was stopped.
+[11:41:24] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[11:41:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd28b06f2b0a78-KIX]
+[11:41:24] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track ixtaG7vRsR0 locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[11:41:25] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596616885&ei=VBwqX7TBO7OnlQTN7YzgCA&ip=219.161.81.129&id=o-AMugqRUH3Tx-qSv1nejhfagVRuoo0neyBhh0Ow7meagK&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-oguelney&ms=au%2Conr&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1371250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596595116&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNmw2Duf249tkAa-yKsAUqaDye8WxDaYq_Wmjc4xZb18CIBgOCKYHaa9yiq_C7PQVxyPfFSDtmrqnmdY4G_jqpc4D&ratebypass=yes&sig=AOq0QJ8wRQIhAOCEbvaJPXVGpOA3ifHec-LAspj7WO6sytn2Uw7wrmbeAiBUc8yzJprzsGCYwpUVzQDiT3edkutO7qCSYF6L_sCfPA%3D%3D
+[11:41:25] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[11:41:25] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[11:41:25] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[11:58:44] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596616885&ei=VBwqX7TBO7OnlQTN7YzgCA&ip=219.161.81.129&id=o-AMugqRUH3Tx-qSv1nejhfagVRuoo0neyBhh0Ow7meagK&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-oguelney&ms=au%2Conr&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1371250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596595116&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNmw2Duf249tkAa-yKsAUqaDye8WxDaYq_Wmjc4xZb18CIBgOCKYHaa9yiq_C7PQVxyPfFSDtmrqnmdY4G_jqpc4D&ratebypass=yes&sig=AOq0QJ8wRQIhAOCEbvaJPXVGpOA3ifHec-LAspj7WO6sytn2Uw7wrmbeAiBUc8yzJprzsGCYwpUVzQDiT3edkutO7qCSYF6L_sCfPA%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[11:59:11] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596616885&ei=VBwqX7TBO7OnlQTN7YzgCA&ip=219.161.81.129&id=o-AMugqRUH3Tx-qSv1nejhfagVRuoo0neyBhh0Ow7meagK&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-oguelney&ms=au%2Conr&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1371250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596595116&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNmw2Duf249tkAa-yKsAUqaDye8WxDaYq_Wmjc4xZb18CIBgOCKYHaa9yiq_C7PQVxyPfFSDtmrqnmdY4G_jqpc4D&ratebypass=yes&sig=AOq0QJ8wRQIhAOCEbvaJPXVGpOA3ifHec-LAspj7WO6sytn2Uw7wrmbeAiBUc8yzJprzsGCYwpUVzQDiT3edkutO7qCSYF6L_sCfPA%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[11:59:37] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596616885&ei=VBwqX7TBO7OnlQTN7YzgCA&ip=219.161.81.129&id=o-AMugqRUH3Tx-qSv1nejhfagVRuoo0neyBhh0Ow7meagK&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-oguelney&ms=au%2Conr&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1371250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596595116&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNmw2Duf249tkAa-yKsAUqaDye8WxDaYq_Wmjc4xZb18CIBgOCKYHaa9yiq_C7PQVxyPfFSDtmrqnmdY4G_jqpc4D&ratebypass=yes&sig=AOq0QJ8wRQIhAOCEbvaJPXVGpOA3ifHec-LAspj7WO6sytn2Uw7wrmbeAiBUc8yzJprzsGCYwpUVzQDiT3edkutO7qCSYF6L_sCfPA%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:154)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:167)
+	at java.base/java.io.DataInputStream.readShort(DataInputStream.java:317)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.parseHeader(MutableMatroskaBlock.java:79)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MatroskaFileReader.readBlockHeader(MatroskaFileReader.java:75)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:333)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[12:00:09] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[12:00:09] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[12:00:09] [DEBUG] [LocalAudioTrackExecutor]: Playing track ixtaG7vRsR0 finished or was stopped.
+[12:00:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd442e9f18db34-KIX]
+[12:00:10] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track o9tMNFQE4Og locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[12:00:11] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r2---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596618011&ei=uyAqX9LTDMK04gKYsK7YAg&ip=219.161.81.129&id=o-APGBz_7CEg-gFUeZLbtiwRjmvvYWfAyl9Vq_WyT_cQLA&itag=22&source=youtube&requiressl=yes&mh=W-&mm=31%2C26&mn=sn-3pm7kn7z%2Csn-oguelnle&ms=au%2Conr&mv=m&mvi=2&pl=14&pcm2=yes&initcwndbps=1350000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=535.661&lmt=1541072289090790&mt=1596596253&fvip=2&fexp=23883098&beids=9466585&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgCAQC_rvFbaSEQBcsQPS_N6L57le3_1Yd03zojzaWzlICIBcJ-5flIr3gKws-MoCB937VeIcwHWnNHyW1nYCfyJ8N&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgBWo4Nv8UGa2mEUkwG9ejxY4Y6UcsWssvbWPWadzPD2ACIEUg7aqdU53cFVs3dqPGqJKGjJ1UqebHigpjOPWnol39","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":442018,"width":1280,"height":720,"lastModified":"1541072289090790","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"535661","audioSampleRate":"44100","audioChannels":2}, skipping
+[12:00:11] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r2---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596618011&ei=uyAqX9LTDMK04gKYsK7YAg&ip=219.161.81.129&id=o-APGBz_7CEg-gFUeZLbtiwRjmvvYWfAyl9Vq_WyT_cQLA&itag=251&source=youtube&requiressl=yes&mh=W-&mm=31%2C26&mn=sn-3pm7kn7z%2Csn-oguelnle&ms=au%2Conr&mv=m&mvi=2&pl=14&pcm2=yes&initcwndbps=1350000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6830243&dur=535.621&lmt=1541074112913198&mt=1596596253&fvip=2&keepalive=yes&fexp=23883098&beids=9466585&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgEek07LDoSBdofxNbjPXM26CkbE8VRGDsjcwU2cauSXECIFg8mC9hSG5cb_IGMG377Qij2Do-EdytbZUtYh-bGT4_&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgBWo4Nv8UGa2mEUkwG9ejxY4Y6UcsWssvbWPWadzPD2ACIEUg7aqdU53cFVs3dqPGqJKGjJ1UqebHigpjOPWnol39
+[12:00:11] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[12:00:11] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[12:00:11] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[12:00:47] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track o9tMNFQE4Og
+[12:00:47] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[12:00:47] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[12:00:47] [DEBUG] [LocalAudioTrackExecutor]: Playing track o9tMNFQE4Og finished or was stopped.
+[12:00:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd451b6927db34-KIX]
+[12:00:48] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track Bgt5cezbjHg locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[12:00:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd451b186fdb34-KIX]
+[12:00:49] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":454765,"width":1280,"height":720,"lastModified":"1541002981498426","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"2057520","audioSampleRate":"44100","audioChannels":2,"signatureCipher":"s=QOq0BJ8wRQIhAIBWLu_ZPD1uAnvCNvvCm6NXKrhJdeUnN2lKc-xrDS55AiB778PeItw8VvPlD8VcdYDx1MHqzI8nf6hEaEF-Dlz%3Dmw%3DEw%3Dc&sp=sig&url=https://r4---sn-3pm7kn7l.googlevideo.com/videoplayback%3Fexpire%3D1596618048%26ei%3D4CAqX7mGMo-Es8IP3e2LkAU%26ip%3D219.161.81.129%26id%3Do-AJv0SdDzkCCS28riG4TbHKv49Et5G8FLeUZDyGzfz0x8%26itag%3D22%26source%3Dyoutube%26requiressl%3Dyes%26mh%3DXY%26mm%3D31%252C29%26mn%3Dsn-3pm7kn7l%252Csn-3pm7snez%26ms%3Dau%252Crdu%26mv%3Dm%26mvi%3D4%26pl%3D14%26gcr%3Djp%26initcwndbps%3D1325000%26vprv%3D1%26mime%3Dvideo%252Fmp4%26ratebypass%3Dyes%26dur%3D2057.520%26lmt%3D1541002981498426%26mt%3D1596596253%26fvip%3D4%26fexp%3D23883098%26c%3DWEB%26txp%3D5431432%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cgcr%252Cvprv%252Cmime%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRQIgZyLRsfHYDurxSq_ZB5a8FGom0-bwsJk8BNIu8VInjY4CIQCsWq-xRXQP0EXy4mRST17Zc4fZnynrsyVWDHXZ0DDZfw%253D%253D"}, skipping
+[12:00:49] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r4---sn-3pm7kn7l.googlevideo.com/videoplayback?expire=1596618048&ei=4CAqX7mGMo-Es8IP3e2LkAU&ip=219.161.81.129&id=o-AJv0SdDzkCCS28riG4TbHKv49Et5G8FLeUZDyGzfz0x8&itag=251&source=youtube&requiressl=yes&mh=XY&mm=31%2C29&mn=sn-3pm7kn7l%2Csn-3pm7snez&ms=au%2Crdu&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1325000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=29444559&dur=2057.481&lmt=1541006813792259&mt=1596596253&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPzHO1Cfy99u6pJoPgf9UQ83rt2kmFaYj_OrE0wK9nOkAiBKw818gITVJCvL54U1w00UQzNyl7qSdT6sDGNvmW5ROg%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgagIoAg7SpPX7z06VzbGlWLe9jQYwkR4mj2utGDr6XQ8CIAcYOlNAVcz0D8gwzx8PBJY_nT50-MDkwMzNiw0vySMe
+[12:00:49] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[12:00:49] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[12:00:49] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[12:02:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd47bb1aebdb34-KIX]
+[12:02:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd47d5288ddb34-KIX]
+[12:02:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd47f38cdbdb34-KIX]
+[12:02:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4812c9c6db34-KIX]
+[12:02:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd48320aaedb34-KIX]
+[12:02:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd48514c0fdb34-KIX]
+[12:03:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd48708e6edb34-KIX]
+[12:03:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd488fcc96db34-KIX]
+[12:03:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd48af19b2db34-KIX]
+[12:03:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd48ce5cd4db34-KIX]
+[12:03:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd48ed9a6bdb34-KIX]
+[12:03:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd490cdbe8db34-KIX]
+[12:03:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd492c2980db34-KIX]
+[12:03:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd494b6891db34-KIX]
+[12:03:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd496aa861db34-KIX]
+[12:03:51] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd49976f1fdb34-KIX]
+[12:03:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd49a929e7db34-KIX]
+[12:03:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd49c86cbddb34-KIX]
+[12:04:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd49e7b9d7db34-KIX]
+[12:04:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4a06fb39db34-KIX]
+[12:04:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4a263af0db34-KIX]
+[12:04:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4a457caedb34-KIX]
+[12:04:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4a64b93fdb34-KIX]
+[12:04:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4a840d5adb34-KIX]
+[12:04:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4aaa4a19db34-KIX]
+[12:04:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4ac28b04db34-KIX]
+[12:04:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4ae1ce8edb34-KIX]
+[12:04:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4b010b49db34-KIX]
+[12:04:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4b2048c9db34-KIX]
+[12:04:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4b3f8f96db34-KIX]
+[12:05:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4b5ede95db34-KIX]
+[12:05:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4b7e1e09db34-KIX]
+[12:05:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4b9d5805db34-KIX]
+[12:05:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4bbc9fb8db34-KIX]
+[12:05:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4bdbdb75db34-KIX]
+[12:05:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4bfb1ec7db34-KIX]
+[12:05:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4c1a98c1db34-KIX]
+[12:05:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4c39d999db34-KIX]
+[12:05:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4c591debdb34-KIX]
+[12:05:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4c785fc3db34-KIX]
+[12:05:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4c979f14db34-KIX]
+[12:05:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4cb6eef9db34-KIX]
+[12:06:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4cd62dcedb34-KIX]
+[12:06:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4cf56952db34-KIX]
+[12:06:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4d14a9a3db34-KIX]
+[12:06:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4d33edbbdb34-KIX]
+[12:06:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4d532a54db34-KIX]
+[12:06:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4d727a66db34-KIX]
+[12:06:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4d91ba81db34-KIX]
+[12:06:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4db0fdf1db34-KIX]
+[12:06:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4dd03bc6db34-KIX]
+[12:06:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4def7ba8db34-KIX]
+[12:06:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4e0ec9fcdb34-KIX]
+[12:06:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4e2e0bbedb34-KIX]
+[12:07:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4e4d4d6edb34-KIX]
+[12:07:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4e6c8e6cdb34-KIX]
+[12:07:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4e8bdbc6db34-KIX]
+[12:07:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4eab0b69db34-KIX]
+[12:07:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4eca596ddb34-KIX]
+[12:07:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4ee99862db34-KIX]
+[12:07:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4f08df95db34-KIX]
+[12:07:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4f281935db34-KIX]
+[12:07:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4f476a7bdb34-KIX]
+[12:07:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4f669df9db34-KIX]
+[12:07:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4f85de7fdb34-KIX]
+[12:07:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4fa52cafdb34-KIX]
+[12:08:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4fc46b63db34-KIX]
+[12:08:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd4fe3a883db34-KIX]
+[12:08:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5002ebfcdb34-KIX]
+[12:08:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd502228cfdb34-KIX]
+[12:08:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd50416d02db34-KIX]
+[12:08:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5060ba54db34-KIX]
+[12:08:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd507ff84edb34-KIX]
+[12:08:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd509f3a60db34-KIX]
+[12:08:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd50be78e5db34-KIX]
+[12:08:51] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd50eaea61db34-KIX]
+[12:08:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd50fd0f3ddb34-KIX]
+[12:08:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd511c4dc0db34-KIX]
+[12:09:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd513b8d5bdb34-KIX]
+[12:09:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd515acd29db34-KIX]
+[12:09:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd517a0ec1db34-KIX]
+[12:09:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd51994d16db34-KIX]
+[12:09:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd51b88aefdb34-KIX]
+[12:09:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd51d7d944db34-KIX]
+[12:09:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd51f71848db34-KIX]
+[12:09:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52165eaedb34-KIX]
+[12:09:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52359c3cdb34-KIX]
+[12:09:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5254d9ffdb34-KIX]
+[12:09:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52742d0bdb34-KIX]
+[12:09:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52936fb0db34-KIX]
+[12:10:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52b2ae93db34-KIX]
+[12:10:11] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52decc05db34-KIX]
+[12:10:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd52f12c81db34-KIX]
+[12:10:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd53106b35db34-KIX]
+[12:10:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd532fa96fdb34-KIX]
+[12:10:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd534eedecdb34-KIX]
+[12:10:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd536e3c31db34-KIX]
+[12:10:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd538d7f2edb34-KIX]
+[12:10:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd53acbe4ddb34-KIX]
+[12:10:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd53cbff4bdb34-KIX]
+[12:10:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd53eb3ea3db34-KIX]
+[12:10:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd540a8e96db34-KIX]
+[12:11:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5429c84edb34-KIX]
+[12:11:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd54490ce3db34-KIX]
+[12:11:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd54684e87db34-KIX]
+[12:11:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd54878e89db34-KIX]
+[12:11:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd54a6cec8db34-KIX]
+[12:11:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd54c6192ddb34-KIX]
+[12:11:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd54e54dd8db34-KIX]
+[12:11:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd550499cbdb34-KIX]
+[12:11:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5523d8f0db34-KIX]
+[12:11:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5543abb6db34-KIX]
+[12:11:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd55625a46db34-KIX]
+[12:11:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd55819995db34-KIX]
+[12:12:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd55a0dd16db34-KIX]
+[12:12:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd55c02cb7db34-KIX]
+[12:12:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd55df6feedb34-KIX]
+[12:12:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd55feaf61db34-KIX]
+[12:12:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd561deaa9db34-KIX]
+[12:12:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd563d3bc3db34-KIX]
+[12:12:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd565c7f03db34-KIX]
+[12:12:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd567bbd92db34-KIX]
+[12:12:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd569af898db34-KIX]
+[12:12:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd56ba3cb6db34-KIX]
+[12:12:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd56d97986db34-KIX]
+[12:12:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd56f8bcc9db34-KIX]
+[12:13:07] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd57180ea6db34-KIX]
+[12:13:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd573758e8db34-KIX]
+[12:13:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd57568dd2db34-KIX]
+[12:13:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5775c976db34-KIX]
+[12:13:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd57951ac5db34-KIX]
+[12:13:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd57b448e2db34-KIX]
+[12:13:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd57d38d32db34-KIX]
+[12:13:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd57f2deeddb34-KIX]
+[12:13:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd58121babdb34-KIX]
+[12:13:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5831596edb34-KIX]
+[12:13:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd58509a8fdb34-KIX]
+[12:13:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd586fde02db34-KIX]
+[12:14:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd588f1de7db34-KIX]
+[12:14:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd58ae5fc2db34-KIX]
+[12:14:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd58cdabb4db34-KIX]
+[12:14:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd58ecea3fdb34-KIX]
+[12:14:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd590c2bb1db34-KIX]
+[12:14:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd592b6dc4db34-KIX]
+[12:14:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd594aaae5db34-KIX]
+[12:14:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5969e83cdb34-KIX]
+[12:14:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd59893dd6db34-KIX]
+[12:14:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd59a87b76db34-KIX]
+[12:14:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd59c7be67db34-KIX]
+[12:14:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd59e6fdd8db34-KIX]
+[12:15:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5a063c1ddb34-KIX]
+[12:15:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5a257f17db34-KIX]
+[12:15:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5a44bff2db34-KIX]
+[12:15:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5a640d49db34-KIX]
+[12:15:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5a836b7ddb34-KIX]
+[12:15:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5aa28ededb34-KIX]
+[12:15:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5ac1cdefdb34-KIX]
+[12:15:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5ae1aa52db34-KIX]
+[12:15:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5b00583cdb34-KIX]
+[12:15:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5b1f8e48db34-KIX]
+[12:15:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5b3edff3db34-KIX]
+[12:15:59] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5b5e1dcbdb34-KIX]
+[12:16:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5b7d5de7db34-KIX]
+[12:16:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5b9c9c70db34-KIX]
+[12:16:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5bbbdabadb34-KIX]
+[12:16:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5bdb1e03db34-KIX]
+[12:16:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5bfa5dc0db34-KIX]
+[12:16:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5c19ab7edb34-KIX]
+[12:16:34] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5c38edfadb34-KIX]
+[12:16:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5c582e46db34-KIX]
+[12:16:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5c776c06db34-KIX]
+[12:16:49] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5c96ae0fdb34-KIX]
+[12:16:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5cb5e988db34-KIX]
+[12:17:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5cd52c0edb34-KIX]
+[12:17:04] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5cf468dbdb34-KIX]
+[12:17:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5d13b97fdb34-KIX]
+[12:17:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5d32fbbadb34-KIX]
+[12:17:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5d523936db34-KIX]
+[12:17:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5d717d6edb34-KIX]
+[12:17:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5d90ba57db34-KIX]
+[12:17:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5daffb33db34-KIX]
+[12:17:38] [DEBUG] [WebSocketClient]: Got Reconnect request (OP 7). Closing connection now...
+[12:17:38] [DEBUG] [WebSocketClient]: WebSocket connection closed with code CloseCode(4000 / The server is not sure what went wrong. Try reconnecting?)
+[12:17:38] [WARN] [WebSocketClient]: Got disconnected from WebSocket. Attempting to resume session
+[12:17:38] [DEBUG] [WebSocketClient]: Attempting to reconnect in 2s
+[12:17:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5dcf483edb34-KIX]
+[12:17:40] [DEBUG] [WebSocketClient]: Attempting to reconnect!
+[12:17:40] [DEBUG] [WebSocketClient]: Connected to WebSocket
+[12:17:40] [DEBUG] [WebSocketClient]: Sending Resume-packet...
+[12:17:40] [DEBUG] [WebSocketClient]: Got HELLO packet (OP 10). Initializing keep-alive.
+[12:17:40] [DEBUG] [WebSocketClient]: Received a _trace for HELLO (OP: 10) with ["[\"gateway-prd-main-v2wv\",{\"micros\":0.0}]"]
+[12:17:41] [INFO] [JDA]: Successfully resumed Session!
+[12:17:41] [DEBUG] [WebSocketClient]: Received a _trace for RESUMED (OP: 0) with ["[\"gateway-prd-main-v2wv\",{\"micros\":1308,\"calls\":[\"discord-sessions-prd-1-48\",{\"micros\":142}]}]"]
+[12:17:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5dee8e49db34-KIX]
+[12:17:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5e0dcd62db34-KIX]
+[12:17:56] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5e339c7bdb34-KIX]
+[12:18:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5e4c4941db34-KIX]
+[12:18:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5e6b8896db34-KIX]
+[12:18:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5e8ada30db34-KIX]
+[12:18:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5eaa1ecbdb34-KIX]
+[12:18:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5ec95e0edb34-KIX]
+[12:18:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5ee8a86ddb34-KIX]
+[12:18:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5f07dd71db34-KIX]
+[12:18:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5f271d70db34-KIX]
+[12:18:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5f4669f1db34-KIX]
+[12:18:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5f65ab07db34-KIX]
+[12:18:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5f84ed29db34-KIX]
+[12:18:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5fa42a19db34-KIX]
+[12:19:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5fc36efcdb34-KIX]
+[12:19:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd5fe2add5db34-KIX]
+[12:19:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd60021fabdb34-KIX]
+[12:19:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd60213cd1db34-KIX]
+[12:19:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd60407a9edb34-KIX]
+[12:19:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd605fb99adb34-KIX]
+[12:19:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd607efa5ddb34-KIX]
+[12:19:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd609e3fd9db34-KIX]
+[12:19:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd60bd7b61db34-KIX]
+[12:19:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd60dcc85bdb34-KIX]
+[12:19:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd60fc0a6cdb34-KIX]
+[12:19:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd611b6932db34-KIX]
+[12:20:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd613a8960db34-KIX]
+[12:20:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6159ccb4db34-KIX]
+[12:20:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd61790fd0db34-KIX]
+[12:20:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd61985c2cdb34-KIX]
+[12:20:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd61b79a58db34-KIX]
+[12:20:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd61d6de19db34-KIX]
+[12:20:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd61f61bb7db34-KIX]
+[12:20:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd62155b1ddb34-KIX]
+[12:20:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd62349da0db34-KIX]
+[12:20:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6253df81db34-KIX]
+[12:20:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd627329ebdb34-KIX]
+[12:20:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd62926bd7db34-KIX]
+[12:21:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd62b1aa15db34-KIX]
+[12:21:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd62d0ea3ddb34-KIX]
+[12:21:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd62f0283cdb34-KIX]
+[12:21:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd630f6e8bdb34-KIX]
+[12:21:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd632eaa80db34-KIX]
+[12:21:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd634df9d9db34-KIX]
+[12:21:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd636d3ff7db34-KIX]
+[12:21:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd638c781ddb34-KIX]
+[12:21:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd63abbae1db34-KIX]
+[12:21:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd63cafffadb34-KIX]
+[12:21:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd63ea3c14db34-KIX]
+[12:21:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64098a05db34-KIX]
+[12:22:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6428c8e1db34-KIX]
+[12:22:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64480beadb34-KIX]
+[12:22:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64675f34db34-KIX]
+[12:22:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64868aa7db34-KIX]
+[12:22:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64a5ce70db34-KIX]
+[12:22:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64c5197adb34-KIX]
+[12:22:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd64e45bcfdb34-KIX]
+[12:22:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65039e33db34-KIX]
+[12:22:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6522de7adb34-KIX]
+[12:22:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65421bebdb34-KIX]
+[12:22:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65615f5bdb34-KIX]
+[12:22:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65809e0edb34-KIX]
+[12:23:02] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65acbdbbdb34-KIX]
+[12:23:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65bf29d1db34-KIX]
+[12:23:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65de6c63db34-KIX]
+[12:23:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd65fda9e3db34-KIX]
+[12:23:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd661cefcedb34-KIX]
+[12:23:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd663c2bf8db34-KIX]
+[12:23:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd665b7ffcdb34-KIX]
+[12:23:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd667abad7db34-KIX]
+[12:23:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6699ff1cdb34-KIX]
+[12:23:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd66b93d7cdb34-KIX]
+[12:23:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd66d87a65db34-KIX]
+[12:23:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd66f7c93bdb34-KIX]
+[12:24:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67170d5fdb34-KIX]
+[12:24:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67364eebdb34-KIX]
+[12:24:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67558ce4db34-KIX]
+[12:24:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6774c936db34-KIX]
+[12:24:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67941d10db34-KIX]
+[12:24:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67b36904db34-KIX]
+[12:24:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67d29a36db34-KIX]
+[12:24:36] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd67f82fa2db34-KIX]
+[12:24:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd68111c2adb34-KIX]
+[12:24:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd68305b6fdb34-KIX]
+[12:24:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd684f99ffdb34-KIX]
+[12:24:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd686edfe0db34-KIX]
+[12:25:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd688e2d53db34-KIX]
+[12:25:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd68ad6c3edb34-KIX]
+[12:25:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd68cca97cdb34-KIX]
+[12:25:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd68ebee6edb34-KIX]
+[12:25:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd690b2b6adb34-KIX]
+[12:25:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd692a6acedb34-KIX]
+[12:25:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6949a8bedb34-KIX]
+[12:25:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6968ea3edb34-KIX]
+[12:25:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd69883815db34-KIX]
+[12:25:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd69a77a28db34-KIX]
+[12:25:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd69c6ba26db34-KIX]
+[12:25:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd69e5facfdb34-KIX]
+[12:26:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6a05395cdb34-KIX]
+[12:26:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6a247ec9db34-KIX]
+[12:26:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6a43be89db34-KIX]
+[12:26:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6a630deedb34-KIX]
+[12:26:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6a824906db34-KIX]
+[12:26:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6aa18caedb34-KIX]
+[12:26:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6ac0cb07db34-KIX]
+[12:26:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6ae00b18db34-KIX]
+[12:26:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6aff4bb2db34-KIX]
+[12:26:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6b1e9f79db34-KIX]
+[12:26:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6b3ddfe9db34-KIX]
+[12:26:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6b5d1ddedb34-KIX]
+[12:27:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6b7c5f78db34-KIX]
+[12:27:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6b9b9ca2db34-KIX]
+[12:27:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6bbad986db34-KIX]
+[12:27:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6bda1ed5db34-KIX]
+[12:27:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6bf95889db34-KIX]
+[12:27:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6c18acecdb34-KIX]
+[12:27:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6c37e89edb34-KIX]
+[12:27:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6c572acadb34-KIX]
+[12:27:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6c766826db34-KIX]
+[12:27:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6c95acefdb34-KIX]
+[12:27:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6cb4ece7db34-KIX]
+[12:27:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6cd43a32db34-KIX]
+[12:28:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6cf378b6db34-KIX]
+[12:28:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6d12bc2edb34-KIX]
+[12:28:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6d31fc8cdb34-KIX]
+[12:28:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6d513a27db34-KIX]
+[12:28:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6d707aa5db34-KIX]
+[12:28:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6d8fbf9adb34-KIX]
+[12:28:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6daef9f7db34-KIX]
+[12:28:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6dce3d3cdb34-KIX]
+[12:28:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6ded8a6fdb34-KIX]
+[12:28:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6e0cca02db34-KIX]
+[12:28:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6e2c0dfadb34-KIX]
+[12:28:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6e4b4e13db34-KIX]
+[12:29:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6e6a8c27db34-KIX]
+[12:29:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6e89ceb4db34-KIX]
+[12:29:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6ea90c8fdb34-KIX]
+[12:29:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6ec85efbdb34-KIX]
+[12:29:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6ee78a5adb34-KIX]
+[12:29:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6f06d839db34-KIX]
+[12:29:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6f261c2bdb34-KIX]
+[12:29:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6f455f3cdb34-KIX]
+[12:29:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6f649f3edb34-KIX]
+[12:29:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6f83d99cdb34-KIX]
+[12:29:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6fa31a0cdb34-KIX]
+[12:29:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6fc26ec5db34-KIX]
+[12:30:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd6fe1ab92db34-KIX]
+[12:30:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7000ed9edb34-KIX]
+[12:30:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd70202d4fdb34-KIX]
+[12:30:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd703f7da8db34-KIX]
+[12:30:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd705eae65db34-KIX]
+[12:30:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd707dfc0adb34-KIX]
+[12:30:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd709d3cbddb34-KIX]
+[12:30:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd70bc7c29db34-KIX]
+[12:30:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd70dbb821db34-KIX]
+[12:30:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd70fafeacdb34-KIX]
+[12:30:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd711a3c84db34-KIX]
+[12:30:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd713979b7db34-KIX]
+[12:31:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7158bdc3db34-KIX]
+[12:31:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd71780c65db34-KIX]
+[12:31:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd71974876db34-KIX]
+[12:31:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd71b68c5fdb34-KIX]
+[12:31:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd71d5c844db34-KIX]
+[12:31:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd71f50c6fdb34-KIX]
+[12:31:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72145b62db34-KIX]
+[12:31:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72339923db34-KIX]
+[12:31:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7252d8b2db34-KIX]
+[12:31:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72721857db34-KIX]
+[12:31:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72915a36db34-KIX]
+[12:31:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72b09926db34-KIX]
+[12:32:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72cfdff0db34-KIX]
+[12:32:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd72ef1dbbdb34-KIX]
+[12:32:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd730e6c6bdb34-KIX]
+[12:32:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd732da9bcdb34-KIX]
+[12:32:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd734ce929db34-KIX]
+[12:32:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd736c2cd9db34-KIX]
+[12:32:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd738b7f9fdb34-KIX]
+[12:32:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd73aaa83ddb34-KIX]
+[12:32:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd73c9ec80db34-KIX]
+[12:32:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd73e92b08db34-KIX]
+[12:32:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd74087924db34-KIX]
+[12:32:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7427b9e0db34-KIX]
+[12:33:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7446fb08db34-KIX]
+[12:33:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd74663f76db34-KIX]
+[12:33:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd74857ae2db34-KIX]
+[12:33:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd74a4bbe0db34-KIX]
+[12:33:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd74c40f8bdb34-KIX]
+[12:33:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd74e34ec4db34-KIX]
+[12:33:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd75028bffdb34-KIX]
+[12:33:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7521cbe5db34-KIX]
+[12:33:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd75410f40db34-KIX]
+[12:33:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd75604fa5db34-KIX]
+[12:33:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd757f8ce5db34-KIX]
+[12:33:52] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7kn7l.googlevideo.com/videoplayback?expire=1596618048&ei=4CAqX7mGMo-Es8IP3e2LkAU&ip=219.161.81.129&id=o-AJv0SdDzkCCS28riG4TbHKv49Et5G8FLeUZDyGzfz0x8&itag=251&source=youtube&requiressl=yes&mh=XY&mm=31%2C29&mn=sn-3pm7kn7l%2Csn-3pm7snez&ms=au%2Crdu&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1325000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=29444559&dur=2057.481&lmt=1541006813792259&mt=1596596253&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPzHO1Cfy99u6pJoPgf9UQ83rt2kmFaYj_OrE0wK9nOkAiBKw818gITVJCvL54U1w00UQzNyl7qSdT6sDGNvmW5ROg%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgagIoAg7SpPX7z06VzbGlWLe9jQYwkR4mj2utGDr6XQ8CIAcYOlNAVcz0D8gwzx8PBJY_nT50-MDkwMzNiw0vySMe.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[12:33:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd759edce3db34-KIX]
+[12:34:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd75be1ceedb34-KIX]
+[12:34:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd75dd5f53db34-KIX]
+[12:34:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd75fc9acddb34-KIX]
+[12:34:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd761bdbdedb34-KIX]
+[12:34:18] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7kn7l.googlevideo.com/videoplayback?expire=1596618048&ei=4CAqX7mGMo-Es8IP3e2LkAU&ip=219.161.81.129&id=o-AJv0SdDzkCCS28riG4TbHKv49Et5G8FLeUZDyGzfz0x8&itag=251&source=youtube&requiressl=yes&mh=XY&mm=31%2C29&mn=sn-3pm7kn7l%2Csn-3pm7snez&ms=au%2Crdu&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1325000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=29444559&dur=2057.481&lmt=1541006813792259&mt=1596596253&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPzHO1Cfy99u6pJoPgf9UQ83rt2kmFaYj_OrE0wK9nOkAiBKw818gITVJCvL54U1w00UQzNyl7qSdT6sDGNvmW5ROg%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgagIoAg7SpPX7z06VzbGlWLe9jQYwkR4mj2utGDr6XQ8CIAcYOlNAVcz0D8gwzx8PBJY_nT50-MDkwMzNiw0vySMe.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[12:34:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd763b1c15db34-KIX]
+[12:34:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd765a5e0bdb34-KIX]
+[12:34:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7679aa99db34-KIX]
+[12:34:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7698dbb2db34-KIX]
+[12:34:40] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd76b82a40db34-KIX]
+[12:34:43] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7kn7l.googlevideo.com/videoplayback?expire=1596618048&ei=4CAqX7mGMo-Es8IP3e2LkAU&ip=219.161.81.129&id=o-AJv0SdDzkCCS28riG4TbHKv49Et5G8FLeUZDyGzfz0x8&itag=251&source=youtube&requiressl=yes&mh=XY&mm=31%2C29&mn=sn-3pm7kn7l%2Csn-3pm7snez&ms=au%2Crdu&mv=m&mvi=4&pl=14&gcr=jp&initcwndbps=1325000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=29444559&dur=2057.481&lmt=1541006813792259&mt=1596596253&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPzHO1Cfy99u6pJoPgf9UQ83rt2kmFaYj_OrE0wK9nOkAiBKw818gITVJCvL54U1w00UQzNyl7qSdT6sDGNvmW5ROg%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgagIoAg7SpPX7z06VzbGlWLe9jQYwkR4mj2utGDr6XQ8CIAcYOlNAVcz0D8gwzx8PBJY_nT50-MDkwMzNiw0vySMe.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[12:34:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd76d77856db34-KIX]
+[12:34:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd76f6ab58db34-KIX]
+[12:34:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7715ee41db34-KIX]
+[12:35:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77352f38db34-KIX]
+[12:35:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77547f95db34-KIX]
+[12:35:06] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[12:35:06] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[12:35:06] [DEBUG] [LocalAudioTrackExecutor]: Playing track Bgt5cezbjHg finished or was stopped.
+[12:35:07] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77600b2fdb34-KIX]
+[12:35:07] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track ID0Nlk4jjTE locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@5b7fc2b5
+[12:35:07] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r5---sn-3pm76n76.googlevideo.com/videoplayback?expire=1596620107&ei=6ygqX4-VOcWjgQO41ZvgDw&ip=219.161.81.129&id=o-AA3qb-k2jvXCyFAj88CyUeClq1FYCWzvR_2htwKZAqBh&itag=22&source=youtube&requiressl=yes&mh=gZ&mm=31%2C29&mn=sn-3pm76n76%2Csn-3pm7sn7s&ms=au%2Crdu&mv=m&mvi=5&pl=14&initcwndbps=1437500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=1185.448&lmt=1591359009323050&mt=1596598352&fvip=5&fexp=23883098&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAI7z_3hBc-3jonVnY4VEQDa4I6g8QbY9vpixzTkapYM-AiEAxxyYKhgg0mvIMjMN6ljgWBPvkbBS0PBFXLTKEgrgz0c%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgfb2QwZBWJV6hgiNXmWgJFa4AZPrZK-xr53jOeD2cYvUCIHG5dA8XZoN1a-1GDKoNvHNH1UZVBMMfE4Fn-nd2-kt8","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":275404,"width":1280,"height":720,"lastModified":"1591359009323050","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"1185448","audioSampleRate":"44100","audioChannels":2}, skipping
+[12:35:07] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r5---sn-3pm76n76.googlevideo.com/videoplayback?expire=1596620107&ei=6ygqX4-VOcWjgQO41ZvgDw&ip=219.161.81.129&id=o-AA3qb-k2jvXCyFAj88CyUeClq1FYCWzvR_2htwKZAqBh&itag=251&source=youtube&requiressl=yes&mh=gZ&mm=31%2C29&mn=sn-3pm76n76%2Csn-3pm7sn7s&ms=au%2Crdu&mv=m&mvi=5&pl=14&initcwndbps=1437500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17430109&dur=1185.421&lmt=1591358918537861&mt=1596598352&fvip=5&keepalive=yes&fexp=23883098&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAOHVwIvmcSndZDkHMSYcwM6pi1gfE4MMTiEa_0Am5u0fAiBg8lDvGwtDJOM9bM4KIaFDzYU_WwlC-ZMA2N5-jhJQCw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgfb2QwZBWJV6hgiNXmWgJFa4AZPrZK-xr53jOeD2cYvUCIHG5dA8XZoN1a-1GDKoNvHNH1UZVBMMfE4Fn-nd2-kt8
+[12:35:07] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[12:35:07] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[12:35:07] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[12:35:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7773acbedb34-KIX]
+[12:35:13] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7789af96db34-KIX]
+[12:35:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd7792e8b5db34-KIX]
+[12:35:22] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track ID0Nlk4jjTE
+[12:35:22] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[12:35:22] [DEBUG] [LocalAudioTrackExecutor]: Playing track ID0Nlk4jjTE finished or was stopped.
+[12:35:22] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77bebe47db34-KIX]
+[12:35:22] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77bece72db34-KIX]
+[12:35:22] [INFO] [Stop]: 凄鯖！で s!stop を実行しました。
+[12:35:22] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77c08afedb34-KIX]
+[12:35:22] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"602446508289163284","channel_id":null,"self_mute":false}}
+[12:35:25] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77d17deddb34-KIX]
+[12:35:30] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd77f29850db34-KIX]
+[12:36:13] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd79010f08db34-KIX]
+[12:36:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd79251ae1db34-KIX]
+[13:00:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd9d017b220a50-KIX]
+[13:02:35] [DEBUG] [Requester]: Received response with following cf-rays: [5bdd9fa02c1e0a50-KIX]
+[13:35:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bddcf95bca0fcbd-KIX]

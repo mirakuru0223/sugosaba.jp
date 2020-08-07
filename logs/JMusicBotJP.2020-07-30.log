@@ -1,0 +1,772 @@
+[00:17:21] [INFO] [Stop]: ê¶éIÅIÇ≈ s!stop Çé¿çsÇµÇ‹ÇµÇΩÅB
+[00:17:21] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"602446508289163284","channel_id":null,"self_mute":false}}
+[00:17:21] [DEBUG] [Requester]: Received response with following cf-rays: [5ba7ce69ad70fce5-KIX]
+[00:17:29] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"710329745958502441","channel_id":null,"self_mute":false}}
+[18:57:10] [DEBUG] [TrustManagerBuilder]: Certificate list /certificates/extended.txt not present in classpath.
+[18:57:10] [DEBUG] [PlayerManager]: ResamplingQuality is LOW(not HIGH), Setting Quality to HIGH
+[18:57:10] [INFO] [Startup]: C:\Users\Owner\Desktop\BotÉtÉHÉãÉ_\ê¶éIBot\config.txt Ç©ÇÁê›íËÇì«Ç›çûÇ›Ç‹ÇµÇΩ
+[18:57:10] [DEBUG] [Requester]: Received response with following cf-rays: [5bae36c15e2dfcb9-KIX]
+[18:57:11] [DEBUG] [Requester]: Received response with following cf-rays: [5bae36c1aed2fcb9-KIX]
+[18:57:11] [INFO] [JDA]: Login Successful!
+[18:57:11] [INFO] [WebSocketClient]: Connected to WebSocket
+[18:57:11] [DEBUG] [WebSocketClient]: Sending Identify-packet...
+[18:57:11] [DEBUG] [WebSocketClient]: Got HELLO packet (OP 10). Initializing keep-alive.
+[18:57:11] [DEBUG] [WebSocketClient]: Received a _trace for HELLO (OP: 10) with ["[\"gateway-prd-main-6l2w\",{\"micros\":0.0}]"]
+[18:57:11] [DEBUG] [WebSocketClient]: Received a _trace for READY (OP: 0) with ["[\"gateway-prd-main-6l2w\",{\"micros\":112063,\"calls\":[\"discord-sessions-prd-1-3\",{\"micros\":109919,\"calls\":[\"start_session\",{\"micros\":107067,\"calls\":[\"api-prd-main-d6dx\",{\"micros\":100614,\"calls\":[\"get_user\",{\"micros\":5149},\"add_authorized_ip\",{\"micros\":6477},\"get_guilds\",{\"micros\":22464},\"coros_wait\",{\"micros\":1}]}]},\"guilds_connect\",{\"micros\":8,\"calls\":[]},\"presence_connect\",{\"micros\":1,\"calls\":[]}]}]}]"]
+[18:57:11] [DEBUG] [GuildSetupController]: Setting incomplete count to 3
+[18:57:12] [DEBUG] [GuildSetupController]: Finished setup for guild 602446508289163284 firing cached events 0
+[18:57:12] [DEBUG] [GuildSetupController]: Finished setup for guild 611477431441686540 firing cached events 0
+[18:57:12] [INFO] [JDA]: Finished Loading!
+[18:57:12] [DEBUG] [GuildSetupController]: Finished setup for guild 710329745958502441 firing cached events 0
+[18:57:12] [DEBUG] [WebSocketClient]: Sending normal message {"op":3,"d":{"game":{"name":"åˆéÆÉTÉCÉgÅ® https://sugosabajp.memo.wiki/","type":0},"afk":false,"status":"online","since":1596103032378}}
+[18:59:00] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":602446508289163284,"channel_id":602446677005303808,"self_mute":false}}
+[18:59:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bae396a5b9afcb9-KIX]
+[18:59:00] [DEBUG] [DefaultAudioPlayerManager]: No matches for track with identifier ñkó§ÇÃâwÉÅÉç.
+[18:59:00] [DEBUG] [YoutubeSearchProvider]: Performing a search with query ñkó§ÇÃâwÉÅÉç
+[18:59:01] [DEBUG] [YoutubeSearchProvider]: Attempting to parse results page as polymer
+[18:59:01] [DEBUG] [AudioWebSocket]: Using encryption mode xsalsa20_poly1305_lite
+[18:59:01] [DEBUG] [DefaultAudioPlayerManager]: Loaded a playlist with identifier ytsearch:ñkó§ÇÃâwÉÅÉç using YoutubeAudioSourceManager.
+[18:59:01] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[18:59:01] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39754aa2fcb9-KIX]
+[18:59:01] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track cT-SiVLrV24 locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[18:59:02] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39770e0afcb9-KIX]
+[18:59:02] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39771e2cfcb9-KIX]
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=22&source=youtube&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=598.006&lmt=1577597016838987&mt=1596103048&fvip=1&fexp=23883098&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAKyyFFHw4jzYDZtsPqYZ0ezoxAaMGoYOi5fteEbF3fmmAiBcaOdNKTCIZI9tOtgb9TiRvvSzdkGjzgmfkOU8wMjtjQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":943028,"width":1280,"height":720,"lastModified":"1577597016838987","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"598006","audioSampleRate":"44100","audioChannels":2}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":248,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fwebm&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRQIgJVWjxXHrrEQzdBrPnkXr9otQNe3OO-joDFdTFXhydWoCIQCSy6CP_U4iWu1MTwZ84w3IL1sg5z4wKkIlAdLkl8z_WQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/webm; codecs=\"vp9\"","bitrate":2646000,"width":1920,"height":1080,"lastModified":"1577596983106092","quality":"hd1080","fps":30,"qualityLabel":"1080p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":136,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fmp4&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPQCFBVkZyPsZuY6Uz_pnLZpwMqgpqk5LbwIEF-OY3Z3AiEA-XZEJBIvObBy18-3ZXx4tDXooDp21QP-OmobbilZ52o%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/mp4; codecs=\"avc1.4d4016\"","bitrate":2310000,"width":1280,"height":720,"lastModified":"1577596983106092","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":247,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fwebm&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKW2qD9d7YmIdVjNZKUoqgAriG_HYIvQARukhiSVwl31AiEAx_zF932HeH6iVrpap0wG-06ntffRBZcvy0Mv9KQwmhI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/webm; codecs=\"vp9\"","bitrate":1505280,"width":1280,"height":720,"lastModified":"1577596983106092","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":135,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fmp4&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgFps66HeBgKvq4F-2SLlseeI0I12YyDhlpMyLVOAviVUCIBglFNEe9L6COM2AqAeR7b5IFKSvRLuKZHypRatznn6P&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/mp4; codecs=\"avc1.4d4014\"","bitrate":1155000,"width":854,"height":480,"lastModified":"1577596983106092","quality":"large","fps":30,"qualityLabel":"480p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":244,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fwebm&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJgWdee2WcjKOgjcgcG2x4MSxpJwTN19D4wd-qBTQ3wbAiBv7NaUXg1EklSrK5OeUVLC2wfn0uBKAAQqCTEdLvGnew%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/webm; codecs=\"vp9\"","bitrate":752640,"width":854,"height":480,"lastModified":"1577596983106092","quality":"large","fps":30,"qualityLabel":"480p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":243,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fwebm&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRQIgOWJxABEbGUJrdmLDfEDOhO6fxKHuRvO2W4RXyIPOGdUCIQC_mXliT82-o9abqrpvvZPZQdARVt4EdFMop2LoH0SmWw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/webm; codecs=\"vp9\"","bitrate":405720,"width":640,"height":360,"lastModified":"1577596983106092","quality":"medium","fps":30,"qualityLabel":"360p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":133,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=133&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fmp4&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgBw1ge-GgbPOhfxBBc4dF698xU7eAS_ZC1A5EB4DLP7wCIDaR8H4SHwG8GIEBoQ9Scv88ae5AitR_GrbUx1tqMCyb&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/mp4; codecs=\"avc1.4d400c\"","bitrate":242000,"width":426,"height":240,"lastModified":"1577596983106092","quality":"small","fps":30,"qualityLabel":"240p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":242,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=242&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fwebm&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgAfcbbIylHv2to4TqCGMUsjqj7MWaTb2CzXDCAGtG3scCIAUht38fVbb8MXCX4I2yqYYVH_aEpkqV1tqib2MT-AzL&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/webm; codecs=\"vp9\"","bitrate":220500,"width":426,"height":240,"lastModified":"1577596983106092","quality":"small","fps":30,"qualityLabel":"240p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":160,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=160&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fmp4&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAOW92WMAgXNdj4fWaIqhSosGcx8pdpWQCji7WNjA0zuDAiEArZ08KV94QbwSb9RWCN_Xa8I8QEbUjky1F9t_X6_epkE%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/mp4; codecs=\"avc1.4d400b\"","bitrate":108000,"width":256,"height":144,"lastModified":"1577596983106092","quality":"tiny","fps":30,"qualityLabel":"144p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":278,"url":"https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=278&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_otf&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=video%2Fwebm&otf=1&otfp=1&dur=0.000&lmt=1577596983106092&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cotf%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRQIgBm2c4bjuMRP6pz2oPe-hLt-FW8ZBCy1AYDin37N4XWUCIQDwJLTTJYUQbQZr08bNi6ZOJR3-bxbt3YXwKABP32IS6Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D","mimeType":"video/webm; codecs=\"vp9\"","bitrate":95000,"width":256,"height":144,"lastModified":"1577596983106092","quality":"tiny","fps":30,"qualityLabel":"144p","projectionType":"RECTANGULAR","type":"FORMAT_STREAM_TYPE_OTF"}, skipping
+[18:59:02] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r1---sn-3pm7kn7z.googlevideo.com/videoplayback?expire=1596124741&ei=5ZkiX4C_AsaEqQGGhIHoCw&ip=219.161.81.129&id=o-ACwL-BvDJm8RR8jDM0lhMlakpuICvxKYzORjcE6uR--L&itag=251&source=youtube&requiressl=yes&mh=0E&mm=31%2C29&mn=sn-3pm7kn7z%2Csn-3pm7sn7z&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=1227500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=8906949&otfp=1&dur=597.961&lmt=1577596974192854&mt=1596103048&fvip=1&keepalive=yes&fexp=23883098&c=WEB&txp=6211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAOO1f0oyX64aceexDm3YQQvQyFPkwGQtuCs0o7FDXOd8AiEAtfTLuv7Nc-RCmfzgube6Py0-hoc-B_cZY5TVibbAF-w%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAP67oh0Pn3w3F4gl1GhkbGlkHejZGLEy746rsxCzsFTLAiEAxv99gett4X3bKsmnLz1qGJzETZ8Q0SuZKh_MC-vpSKE%3D
+[18:59:02] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[18:59:02] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[18:59:02] [INFO] [NativeLibraryLoader]: Native library libmpg123-0: loading with filter com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader$$Lambda$299/1054987627@1d10cb73
+[18:59:02] [DEBUG] [ResourceNativeLibraryBinaryProvider]: Native library libmpg123-0: trying to find from resources at /natives/win-x86-64/libmpg123-0.dll with com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader as classloader reference
+[18:59:02] [DEBUG] [NativeLibraryLoader]: Native library libmpg123-0: detected C:\Users\Owner\AppData\Local\Temp\lava-jni-natives as base directory for extraction.
+[18:59:02] [DEBUG] [NativeLibraryLoader]: Native library libmpg123-0: extraction directory C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596103142704 does not exist, creating.
+[18:59:02] [DEBUG] [NativeLibraryLoader]: Native library libmpg123-0: attempting to load library at C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596103142704\libmpg123-0.dll
+[18:59:02] [INFO] [NativeLibraryLoader]: Native library libmpg123-0: successfully loaded.
+[18:59:02] [INFO] [NativeLibraryLoader]: Native library connector: loading with filter null
+[18:59:02] [DEBUG] [ResourceNativeLibraryBinaryProvider]: Native library connector: trying to find from resources at /natives/win-x86-64/connector.dll with com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader as classloader reference
+[18:59:02] [DEBUG] [NativeLibraryLoader]: Native library connector: detected C:\Users\Owner\AppData\Local\Temp\lava-jni-natives as base directory for extraction.
+[18:59:02] [DEBUG] [NativeLibraryLoader]: Native library connector: extraction directory C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596103142838 does not exist, creating.
+[18:59:02] [DEBUG] [NativeLibraryLoader]: Native library connector: attempting to load library at C:\Users\Owner\AppData\Local\Temp\lava-jni-natives\1596103142838\connector.dll
+[18:59:03] [INFO] [NativeLibraryLoader]: Native library connector: successfully loaded.
+[18:59:03] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[18:59:04] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track cT-SiVLrV24
+[18:59:04] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[18:59:04] [DEBUG] [LocalAudioTrackExecutor]: Playing track cT-SiVLrV24 finished or was stopped.
+[18:59:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bae398a0fd7fcb9-KIX]
+[18:59:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bae398a180bfcb9-KIX]
+[18:59:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bae398caddbfcb9-KIX]
+[18:59:14] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39c3af0bfcb9-KIX]
+[18:59:14] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/3kPomGdkMXs using YoutubeAudioSourceManager.
+[18:59:14] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[18:59:15] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[18:59:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39c8497cfcb9-KIX]
+[18:59:15] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track 3kPomGdkMXs locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[18:59:15] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39c9bcb4fcb9-KIX]
+[18:59:15] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/I-hotHxAkA4 using YoutubeAudioSourceManager.
+[18:59:15] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r3---sn-3pm76n7s.googlevideo.com/videoplayback?expire=1596124754&ei=8pkiX9zgEM2T4AL1uqWwCQ&ip=219.161.81.129&id=o-AFOoY6cOZRrp9MRZTL_QWJtHntJeNCPUcJlA5OwPJESo&itag=22&source=youtube&requiressl=yes&mh=Nl&mm=31%2C29&mn=sn-3pm76n7s%2Csn-3pm7dn7r&ms=au%2Crdu&mv=m&mvi=3&pl=14&pcm2=yes&initcwndbps=1227500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=345.605&lmt=1472115388579922&mt=1596103048&fvip=3&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgLPPNYDYkIRUH2H1ZCGeJHQ9hfrb38cVKgPBDbIctLxUCICjTrgHvkEh_aH_qs7JSvva_T94lnzkiD5o27eZ8pGPO&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgP2LyqqjQO9ase48PtczWyi57aItqqL-x1tH_CSwRsy8CIQDw0FScYZEm_tGnGsrX8RG5MfpGMEMERWAgZf4gOPk6wg%3D%3D","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":517970,"width":1280,"height":720,"lastModified":"1472115388579922","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"345605","audioSampleRate":"44100","audioChannels":2}, skipping
+[18:59:15] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r3---sn-3pm76n7s.googlevideo.com/videoplayback?expire=1596124754&ei=8pkiX9zgEM2T4AL1uqWwCQ&ip=219.161.81.129&id=o-AFOoY6cOZRrp9MRZTL_QWJtHntJeNCPUcJlA5OwPJESo&itag=251&source=youtube&requiressl=yes&mh=Nl&mm=31%2C29&mn=sn-3pm76n7s%2Csn-3pm7dn7r&ms=au%2Crdu&mv=m&mvi=3&pl=14&pcm2=yes&initcwndbps=1227500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=7768783&dur=345.541&lmt=1426660748732869&mt=1596103048&fvip=3&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgZViE7rDh1zUdjx0WUXdqMX9uKIyuzOScPqXCtI14vN4CIQCL765pzrmvjyZW-5YRi88zVD5ALdOtUtT63SQ0ULWhAg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgP2LyqqjQO9ase48PtczWyi57aItqqL-x1tH_CSwRsy8CIQDw0FScYZEm_tGnGsrX8RG5MfpGMEMERWAgZf4gOPk6wg%3D%3D
+[18:59:15] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[18:59:15] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[18:59:15] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[18:59:15] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/h5N31z2CDrM using YoutubeAudioSourceManager.
+[18:59:16] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/K41zO0yA2X0 using YoutubeAudioSourceManager.
+[18:59:17] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/8YgVjbvT-i4 using YoutubeAudioSourceManager.
+[18:59:17] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/KHsOuTstUmA using YoutubeAudioSourceManager.
+[18:59:18] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/HNSC26Wu0Tw using YoutubeAudioSourceManager.
+[18:59:18] [DEBUG] [Requester]: Received response with following cf-rays: [5bae39dc8a3efcb9-KIX]
+[18:59:27] [INFO] [Volume]: ê¶éIÅIÇ≈ÇÃâπó Ç™150Ç©ÇÁ100Ç…ïœçXÇ≥ÇÍÇ‹ÇµÇΩÅB
+[18:59:27] [DEBUG] [OpusPacketRouter]: Enabling passthrough mode on opus track.
+[18:59:27] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 251 buffered frames.
+[18:59:28] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3a18fad9fcb9-KIX]
+[18:59:46] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3a89da30fcb9-KIX]
+[18:59:46] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3a8b7e0dfcb9-KIX]
+[19:00:47] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track 3kPomGdkMXs
+[19:00:47] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:00:47] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:00:47] [DEBUG] [LocalAudioTrackExecutor]: Playing track 3kPomGdkMXs finished or was stopped.
+[19:00:47] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[19:00:47] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3c0a7e45fcb9-KIX]
+[19:00:47] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track I-hotHxAkA4 locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:00:47] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3c0a8e6cfcb9-KIX]
+[19:00:47] [WARN] [DefaultYoutubeTrackDetails]: Video I-hotHxAkA4 with no detected format field, arguments are: {"watermark":",https://s.ytimg.com/yts/img/watermark/youtube_watermark-vflHX6b6E.png,https://s.ytimg.com/yts/img/watermark/youtube_hd_watermark-vflAzLcD6.png","ps":"desktop-polymer","c":"WEB","hl":"ja_JP","cos":"X11","player_response":"{\"responseContext\":{\"serviceTrackingParams\":[{\"service\":\"GFEEDBACK\",\"params\":[{\"key\":\"is_viewed_live\",\"value\":\"False\"},{\"key\":\"logged_in\",\"value\":\"0\"},{\"key\":\"e\",\"value\":\"23885661,23919306,23858564,9473391,23928838,23834232,23919047,23894708,23797973,23929140,23817472,23856479,23816681,23930277,23917364,23917630,23839597,23865206,23919025,23897872,23904600,23919895,23921554,23923862,23904385,23928271,23929220,23895275,23842638,23895498,23853114,23882111,24590225,9473375,23921454,23895139,23874051,23913085,23899762,23905514,23923597,23882125,23925078,23862065,23870434,23928328,23905281,23755966,23902311,23918657,23923202,23897263,23882139,23899758,23921275,23890891,23841299,23862025,23910775,23919563,23926388,23874337,23908862,45170004,23896666,23882685,23911567,23709532,23911301,23911055,23906900,23859025,23874940,23888210,23836115,1714251,9473384,23922772,23832002,23872798,23854352,23899764,23821055,23884593,23885571,23918598,23842233,23870624,23899760,23907904,23910680,23881483,23857949,23907595,23924527,23882130,23841635,23919856,23930302,23924498,23903532,23897257,23906782,23923643,23896704,23902008,23868136,23754764,23887808,23921982,23928007,23929382,23921033,23874981,23865749,23880389,23911226,23898321,23790586,23915958,23907445,23918273,23872595,23916605,23880072,23794339,23857970,23861263,23900830,23900377,23789385,23884386,23909192,23926534,23861666,23862582,9407156,23869558,24650112,23903983,23925550,23854276,23908413,23927089,24304055,23884998,23748146,23928117,23871729,23885487,23894009,23895174,23915985,23862294,23880323,23874269,23900854,23864523,23897295,23904156,23837886,23924990,23925932,23918710,23897503,23804043,23899696,23927284,23890076,23907436,23860381,23885639,23883098,23804281,23811985,23884697,23801987,23703445,23927190,23911915,23744176,23861905\"}]},{\"service\":\"CSI\",\"params\":[{\"key\":\"c\",\"value\":\"WEB\"},{\"key\":\"cver\",\"value\":\"2.20200701.03.01\"},{\"key\":\"yt_li\",\"value\":\"0\"},{\"key\":\"GetPlayer_rid\",\"value\":\"0x2cdc44c4a338c978\"}]},{\"service\":\"GUIDED_HELP\",\"params\":[{\"key\":\"logged_in\",\"value\":\"0\"}]},{\"service\":\"ECATCHER\",\"params\":[{\"key\":\"client.version\",\"value\":\"2.20200701\"},{\"key\":\"client.name\",\"value\":\"WEB\"}]}],\"webResponseContextExtensionData\":{\"hasDecorated\":true}},\"playabilityStatus\":{\"status\":\"LOGIN_REQUIRED\",\"messages\":[\"????????ÅP?????Å ????????Å‚??Åò???????????Åã??????????????????????????Å‚????????ÅL??ÅP??????????Åë???????????????????\"],\"errorScreen\":{\"playerErrorMessageRenderer\":{\"subreason\":{\"simpleText\":\"?????Å‚??ÅC?????Åë??ÅP??Å‚???????ÅNÅ}??ÅP?????????????????ÅL?????ÅP?????Åã??????????????ÅN?????ÅL??Åò?????????\"},\"reason\":{\"simpleText\":\"?????Å ????????Å‚\"},\"proceedButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DARK_ON_BLACK\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"text\":{\"simpleText\":\"?????Åã??????\"},\"navigationEndpoint\":{\"clickTrackingParams\":\"CAEQ8FsiEwjs8sH42_TqAhWSK2AKHb4hDow=\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"https://accounts.google.com/ServiceLogin?service=youtube\\u0026uilel=3\\u0026passive=true\\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dja%26next%3D%252Fget_video_info%253Fvideo_id%253DI-hotHxAkA4%2526eurl%253Dhttps%25253A%25252F%25252Fyoutube.googleapis.com%25252Fv%25252FI-hotHxAkA4hl%253Dja\\u0026hl=ja\",\"rootVe\":83769}},\"signInEndpoint\":{\"nextEndpoint\":{\"clickTrackingParams\":\"CAEQ8FsiEwjs8sH42_TqAhWSK2AKHb4hDow=\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/get_video_info?video_id=I-hotHxAkA4\\u0026eurl=https%3A%2F%2Fyoutube.googleapis.com%2Fv%2FI-hotHxAkA4hl=ja\",\"rootVe\":83769}},\"urlEndpoint\":{\"url\":\"/get_video_info?video_id=I-hotHxAkA4\\u0026eurl=https%3A%2F%2Fyoutube.googleapis.com%2Fv%2FI-hotHxAkA4hl=ja\"}}}},\"trackingParams\":\"CAEQ8FsiEwjs8sH42_TqAhWSK2AKHb4hDow=\"}},\"thumbnail\":{\"thumbnails\":[{\"url\":\"//s.ytimg.com/yts/img/meh7-vflGevej7.png\",\"width\":140,\"height\":100}]},\"icon\":{\"iconType\":\"ERROR_OUTLINE\"}}},\"contextParams\":\"Q0FBU0FnZ0E=\"},\"trackingParams\":\"CAAQu2kiEwjs8sH42_TqAhWSK2AKHb4hDow=\"}","gapi_hint_params":"m;/_/scs/abc-static/_/js/k=gapi.gapi.en.ZR5MgddWeJU.O/am=AAY/d=1/ct=zgms/rs=AHpOoo-4Z3ZFsIV5SfJ3ya7-4n9QA-0-og/m=__features__","cver":"2.20200701.03.01","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","cr":"JP","enablecsi":"1","vss_host":"s.youtube.com","csi_page_type":"embed","cbr":"Chrome","host_language":"ja","root_ve_type":"27240","innertube_context_client_version":"2.20200728.06.00","fexp":"23703445,23744176,23748146,23788843,23804281,23817472,23839597,23856950,23857949,23859802,23868329,23874269,23880389,23882685,23883098,23884386,23885487,23885571,23894826,23895671,23907595,23911055,23911915,23913085,23913085,23913714,23915993,23916148,23918273,23918598,23919563,23921554,23922772,23923597,23924990,23926534,23926534,23928007,23928838,23930277,24500501,9405957,9407156,9449243","innertube_api_version":"v1","cbrver":"83.0.4103.116","use_miniplayer_ui":"1","csn":"T5oiX7hGpYGVBJHgp5AO","fflags":"html5_av1_tv_killswitch=true&hfr_dropped_framerate_fallback_threshold=0&html5_manifestless_vp9_otf=true&html5_gapless_preloading=true&html5_pause_on_nonforeground_platform_errors=true&skip_ad_button_with_thumbnail=true&info_cards_renderer_on_desktop_ads=true&mweb_native_control_in_faux_fullscreen_shared=true&html5_optimized_polling=true&html5_inline_video_quality_survey=true&html5_av1_thresh_arm=240&web_api_url=true&use_survey_skip_in_0s=true&html5_av1_thresh=1080&ignore_empty_xhr=true&desktop_shopping_companion_wta_support=true&html5_gl_fps_threshold=0&delay_ads_gvi_call_on_bulleit_living_room_ms=0&web_player_watch_next_response=true&preskip_button_style_ads_backend=countdown_next_to_thumbnail&web_op_endpoint_banlist=()&web_player_response_overlay_parsing=false&html5_long_rebuffer_threshold_ms=30000&html5_autonav_cap_idle_secs=0&html5_use_current_media_time_for_glrem_gllat=true&html5_min_readbehind_secs=0&html5_health_to_gel=true&html5_workaround_delay_trigger=true&web_player_ios_mweb_resizing=true&mdx_enable_privacy_disclosure_ui=true&html5_in_buffer_ptl_timeout_ms=0&html5_manifestless_max_segment_history=0&html5_performance_cap_floor=360&html5_expanded_max_vss_pings=true&disable_thumbnail_preloading=true&use_touch_events_for_bulleit_mweb=true&html5_live_low_latency_bandwidth_window=0.0&html5_autonav_quality_cap=0&html5_av1_thresh_lcc=360&html5_maximum_readahead_seconds=0.0&bulleit_use_touch_events_for_skip=true&html5_no_placeholder_rollbacks=true&html5_seek_timeout_delay_ms=20000&html5_log_timestamp_offset=true&endscreen_renderer_on_desktop_ads=true&html5_hack_gapless_init=true&use_sonic_library_for_v4_support=true&html5_firefox_ambisonic_opus=true&survey_bypass_if_whitelisted=true&forced_brand_precap_duration_ms=2000&enable_midroll_prefetch_for_html5_unplugged=true&web_player_icons=true&use_video_ad_break_offset_ms_int64=true&html5_ignore_background_dfd=true&suppress_sparkles_for_whitelisted_instream_on_desktop=true&html5_random_playback_cap=0&html5_adaptation_fix=true&html5_enable_4k_hq_enc=true&mweb_enable_custom_control_shared=true&live_fresca_scheduled_persistent=true&kevlar_miniplayer_play_pause_on_scrim=true&web_player_show_music_in_this_video_graphic=video_thumbnail&desktop_image_companion_wta_support=true&html5_hls_initial_bitrate=0&autoplay_time=8000&web_player_live_monitor_env=true&enable_overlays_wta=true&html5_max_headm_for_streaming_xhr=0&csi_on_gel=true&html5_minimum_readahead_seconds=0.0&html5_sticky_duration_cap_secs=0&enable_ypc_clickwrap_on_living_room=true&html5_disable_aac_ac3=true&html5_log_rebuffer_events=5&html5_subsegment_readahead_timeout_secs=2.0&web_macro_markers_snapping_threshold=4&html5_live_abr_repredict_fraction=0.0&html5_max_live_dvr_window_plus_margin_secs=46800.0&dash_manifest_version=5&set_interstitial_advertisers_question_text=true&hoffle_max_video_duration_secs=0&html5_restrict_streaming_xhr_on_sqless_requests=true&html5_not_vp9_supported_quality_cap=0&web_player_disable_ima_uvr=true&html5_drm_set_server_cert=true&html5_suspend_loader=true&html5_hdcp_probing_stream_url=&html5_enable_ac3=true&html5_manifestless_live_segment_index_new_logic=true&desktop_videowall_companion_wta_support=true&html5_player_min_build_cl=-1&html5_qoe_user_intent_match_health=true&html5_live_quality_cap=0&html5_probe_primary_delay_base_ms=0&web_post_search=true&html5_shrink_live_timestamps=true&use_button_command_field_for_web_survey_interstitial=true&html5_background_quality_cap=360&html5_continue_probing_on_missing_drminfo=true&html5_seek_new_elem_delay_ms=12000&html5_jumbo_ull_subsegment_readahead_target=1.3&disable_new_pause_state3=true&html5_subsegment_readahead_load_speed_check_interval=0.5&enable_mixed_direction_formatted_strings=true&networkless_request_age_limit=30&html5_gapless_seek_tolerance_secs=3.0&html5_live_abr_head_miss_fraction=0.0&html5_release_on_error=true&html5_seek_set_cmt_delay_ms=2000&kevlar_frontend_video_list_actions=true&html5_hfr_quality_cap=0&use_typescript_transport=true&polymer_verifiy_app_state=true&use_sonic_js_library_for_v4_support=true&html5_manifestless_synchronized=true&web_player_ipp_canary_type_for_logging=&tvhtml5_unplugged_preload_cache_size=5&html5_set_exception_to_nonfatal=true&html5_default_ad_gain=0.5&enable_kevlar_action_companion_cleanup=true&html5_df_downgrade_thresh=0.1&html5_enable_video_overlay_on_inplayer_slot=true&html5_ignore_target_time=true&mweb_enable_skippables_on_jio_phone=true&self_podding_midroll_choice_string_template=self_podding_midroll_choice&html5_rewrite_manifestless_for_continuity=true&debug_dapper_trace_id=&html5_hls_min_video_height=0&html5_jumbo_ull_nonstreaming_mffa_ms=4000&html5_seek_jiggle_cmt_disable_gapless=true&html5_license_constraint_delay=5000&web_screen_manager_use_default_client=true&html5_av1_thresh_hcc=1080&html5_reload_element_long_rebuffer_delay_ms=20000&html5_enable_hancedenay_iphersay=true&html5_min_upgrade_health=0&should_clear_video_data_on_player_cued_unstarted=true&html5_background_cap_idle_secs=60&html5_manifestless_media_source_duration=25200&html5_buffer_health_to_defer_slice_processing=0.0&sdk_ad_prefetch_time_seconds=-1&log_js_error_clusters=1.0&html5_streaming_xhr_buffer_mdat=true&web_player_inline_botguard=true&self_podding_highlighted_button_blue=true&html5_crypto_period_secs_from_emsg=true&html5_stop_video_in_cancel_playback=true&html5_source_buffer_attach_delay_time=15000&disable_simple_mixed_direction_formatted_strings=true&overwrite_polyfill_on_logging_lib_loaded=true&enable_device_forwarding_from_xhr_client=true&player_doubletap_to_seek=true&max_resolution_for_white_noise=360&web_log_connection=true&html5_max_drift_per_track_secs=0.0&html5_accurate_seeking_redux=true&fast_autonav_in_background=true&player_bootstrap_method=true&allow_live_autoplay=true&enforce_cuerange_priority_on_web=true&html5_enable_json_subtitle=true&web_screen_associated_all_layers=true&html5_remove_pause=false&html5_store_xhr_headers_readable=true&kevlar_miniplayer_expand_top=true&enable_ad_pod_specific_ui=true&hoffle_cache_size_secs=0&html5_platform_whitelisted_for_frame_accurate_seeks=true&html5_gllat=true&html5_emsg_crypto_period_index=true&html5_playback_timeline_register_disposable=true&html5_subsegment_readahead_min_buffer_health_secs=0.25&html5_post_interrupt_readahead=20&disable_legacy_pyv_for_web=true&pass_biscotti_id_in_header_ajax=true&tvhtml5_disable_live_prefetch=true&use_forced_linebreak_preskip_text=true&html5_peak_shave=true&html5_default_quality_cap=0&html5_enable_embedded_player_visibility_signals=true&desktop_player_button_tooltip_with_shortcut=true&web_deprecate_service_ajax_map_dependency=true&ensure_only_one_resolved_midroll_response_on_web=true&mark_encrypted_webm_supporting_widevine=true&log_window_onerror_fraction=0.1&html5_gapless_ad_byterate_multiplier=1.6&html5_experiment_id_label=0&self_podding_header_string_template=self_podding_interstitial_message&html5_restore_perf_cap_redux=true&html5_manifestless_vp9=true&suppress_gen_204=true&web_player_api_logging_fraction=0.01&html5_qoe_intercept=&html5_probe_secondary_during_timeout_miss_count=2&html5_live_normal_latency_bandwidth_window=0.0&networkless_ytidb_version=1&external_fullscreen_with_edu=true&html5_manifestless_interpolate=true&html5_disable_manifestless_sqless_sync=true&html5_gapless_no_requests_after_lock=true&align_ad_to_video_player_lifecycle_for_bulleit=true&html5_set_ended_in_pfx_live=true&log_js_exceptions_fraction=1.0&html5_seek_jiggle_cmt_delay_ms=8000&html5_gapless_ended_transition_buffer_ms=200&html5_gapless_audio=true&html5_gapless_max_played_ranges=12&variable_buffer_timeout_ms=0&web_op_signal_type_banlist=()&tvhtml5_min_readbehind_secs=20&kevlar_playback_associated_queue=true&bulleit_get_midroll_info_timeout_ms=8000&html5_unreported_seek_reseek_delay_ms=0&html5_restore_perf_cap=false&html5_bandwidth_window_size=0&html5_player_dynamic_bottom_gradient=true&html5_streaming_xhr_try_webm=true&kevlar_allow_multistep_video_init=true&html5_new_mediastream=true&html5_disable_move_pssh_to_moov=true&html5_min_readbehind_cap_secs=60&html5_vp9_new_mime=true&html5_source_buffer_attach_retry_limit=0&html5_allowable_liveness_drift_chunks=2&web_op_continuation_type_banlist=()&html5_request_sizing_multiplier=0.8&web_player_live_monitor_env_killswitch=true&html5_hdr_separate_keys_support=true&html5_error_cooldown_in_ms=30000&html5_live_ultra_low_latency_bandwidth_window=0.0&html5_decoder_freeze_timeout_delay_ms=0&html5_ignore_bad_bitrates=true&html5_allow_video_keyframe_without_audio=true&player_ads_set_adformat_on_client=true&html5_max_readahead_bandwidth_cap=0&enable_survey_termination_on_resize=true&web_client_version_override=&html5_sync_seeking_state=true&kevlar_miniplayer=true&networkless_throttle_timeout=100&html5_media_fullscreen=true&html5_desktop_vr180_allow_panning=true&html5_player_autonav_logging=true&player_enable_playback_playlist_change=true&html5_enable_extra_sync_killswitch=true&html5_subsegment_readahead_target_buffer_health_secs=0.5&html5_autoplay_default_quality_cap=0&tvhtml5_audio_enable_botguard=true&html5_qoe_length=96000&html5_seek_over_discontinuities=true&desktop_sparkles_light_cta_button=true&html5_subsegment_readahead_seek_latency_fudge=0.5&html5_quality_cap_min_age_secs=0&html5_ads_preroll_lock_timeout_delay_ms=0&web_wn_macro_markers=true&html5_encrypted_vp9_firefox=true&debug_sherlog_username=&self_podding_pod_choice_string_template=self_podding_pod_choice&web_player_include_innertube_commands=true&desktop_action_companion_wta_support=true&html5_delay_initial_loading=true&web_yt_config_context=true&html5_dai_assume_unordered_cuepoints=true&render_enhanced_overlays_as_ctas_for_desktop_style=unset&html5_platform_minimum_readahead_seconds=0.0&html5_aspect_from_adaptive_format=true&html5_time_based_consolidation_ms=10&web_use_beacon_api_for_ad_click_server_pings=true&html5_unify_sqless_flow=true&enable_svg_mode_on_embed_mobile=true&playready_first_play_expiration=-1&set_interstitial_start_button=true&web_gel_debounce_ms=10000&info_cards_renderer_on_desktop=true&html5_probe_primary_failure_factor=4&html5_deadzone_multiplier=1.0&enable_eviction_protection_for_bulleit=true&html5_remove_not_servable_check_killswitch=true&html5_subsegment_readahead_min_load_speed=1.5&web_player_response_fairplay_config_killswitch=true&html5_ios4_seek_above_zero=true&player_destroy_old_version=true&allow_poltergust_autoplay=true&html5_gapless_error_check_killswitch=true&kevlar_autonav_miniplayer_fix=true&self_podding_highlight_non_default_button=true&web_client_counter_random_seed=true&ad_pod_disable_companion_persist_ads_quality=true&live_chunk_readahead=3&polymer_bad_build_labels=true&html5_qoe_reports_ctt=true&enable_ve_tracker_key=true&html5_log_live_discontinuity=true&enable_live_premiere_web_player_indicator=true&html5_new_elem_on_hidden=true&html5_log_non_fatal=true&html5_jumbo_mobile_subsegment_readahead_target=3.0&botguard_async_snapshot_timeout_ms=3000&html5_request_size_padding_secs=3.0&html5_ios7_force_play_on_stall=true&web_player_watch_next_response_parsing=true&endscreen_renderer_on_desktop=true&networkless_retry_attempts=1&delay_gel_until_config_ready=true&html5_subsegment_readahead_min_buffer_health_secs_on_timeout=0.1&html5_ios_force_seek_to_zero_on_stop=true&mweb_cougar_big_controls=true&web_player_no_endscreen_crop=true&html5_probe_live_using_range=true&html5_encourage_array_coalescing=true&html5_sticky_reduces_discount_by=0.0&disable_legacy_desktop_remote_queue=true&web_player_sentinel_is_uniplayer=true&html5_log_media_perf_info=true&variable_load_timeout_ms=0&web_player_response_playback_tracking_parsing=true&html5_incremental_parser_buffer_duration_secs=1.5&unplugged_tvhtml5_video_preload_on_focus_delay_ms=0&html5_disable_non_contiguous=true&html5_disable_subscribe_new_vis=true&html5_ignore_start_seconds_for_ads_killswitch=true&html5_enable_eac3=true&unplugged_tvhtml5_botguard_attestation=true&html5_vp9_mime_full_range_flag=true&enable_client_deferred_full_screen_filtering_for_mweb_phones=true&kevlar_queue_use_dedicated_list_type=true&release_player_on_abandon_for_bulleit_lr_ads_frontend=true&network_polling_interval=30000&live_fresca_v2=true&midroll_notify_time_seconds=5&simply_enable_botguard=true&html5_max_av_sync_drift=50&web_logging_max_batch=150&html5_log_experiment_id_from_player_response_to_ctmp=&html5_readahead_ratelimit=3000&html5_decode_to_texture_cap=true&html5_unrewrite_timestamps=true&web_network_combined_catch=true&html5_video_tbd_min_kb=0&kevlar_queue_use_update_api=true&html5_streaming_xhr_try_cobalt=true&embeds_enable_embed_module=true&enable_device_forwarding_from_polymer_network_manager=true&web_player_music_visualizer_treatment=fake&player_allow_autonav_after_playlist=true&www_for_videostats=true&html5_incremental_parser_buffer_extra_bytes=16384&allow_skip_annotations_invideo=true&html5_safari_desktop_eme_min_version=0&ensure_vis_persists_in_full_screen_for_mweb=true&html5_log_playback_rate_change_killswitch=true&web_gel_timeout_cap=true&html5_fludd_suspend=true&html5_disable_continuous_timeline_for_duration=true&enable_external_player_ad_playback_progress_html5=true&custom_csi_timeline_use_gel=true&hide_preskip=true&html5_disable_preserve_reference=true&html5_ad_timeout_ms=0&html5_prefer_server_bwe3=true&html5_static_abr_resolution_shelf=0&html5_disable_extra_update_resource=true&mweb_muted_autoplay_animation=shrink&web_player_live_monitor_env_killswitch2=true","status":"ok"}
+[19:00:48] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:00:48] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:00:48] [ERROR] [LocalAudioTrackExecutor]: Error in playback of I-hotHxAkA4
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Something broke when playing the track.
+	at com.sedmelluq.discord.lavaplayer.tools.ExceptionTools.wrapUnfriendlyExceptions(ExceptionTools.java:43)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:117)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+Caused by: java.lang.RuntimeException: com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unable to play this YouTube track.
+	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeTrackDetails.getFormats(DefaultYoutubeTrackDetails.java:61)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:82)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:42)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	... 4 common frames omitted
+Caused by: com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unable to play this YouTube track.
+	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeTrackDetails.loadTrackFormats(DefaultYoutubeTrackDetails.java:110)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeTrackDetails.getFormats(DefaultYoutubeTrackDetails.java:59)
+	... 7 common frames omitted
+Caused by: java.lang.IllegalStateException: No adaptive formats, no dash, no stream map.
+	... 9 common frames omitted
+[19:00:48] [DEBUG] [AudioPlayer]: Firing an event with class TrackExceptionEvent
+[19:00:48] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[19:00:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3c0ebf67fcb9-KIX]
+[19:00:48] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track h5N31z2CDrM locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:00:48] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r5---sn-3pm7kn7e.googlevideo.com/videoplayback?expire=1596124847&ei=T5oiX_DcGKqD1d8P9uqIiAo&ip=219.161.81.129&id=o-AOWlWer440wYLyh-IhgEiasybP8EXpNmhUhg3JDnHUiC&itag=22&source=youtube&requiressl=yes&mh=u_&mm=31%2C26&mn=sn-3pm7kn7e%2Csn-ogul7n7z&ms=au%2Conr&mv=m&mvi=5&pl=14&initcwndbps=1302500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=207.098&lmt=1568636423948521&mt=1596103110&fvip=5&fexp=23883098&c=WEB&txp=2316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIa2JF3nHGKr7BieGoBAhidFQnriwGLBTl76kmuggitMAiEApJnx4qAq0FflwMCqcjiHWbUZpsCrpLW8myFcLDXQmcI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgK_g-_A9tH6kLgg2BtwXPYm7PftyenmOFI1fsMt1S0UwCICxUFyDdGnd4cNS6iXAW8ysunI7Hy-cK3YJqNn9GpIza","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":1153917,"width":1280,"height":720,"lastModified":"1568636423948521","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"207098","audioSampleRate":"44100","audioChannels":2}, skipping
+[19:00:48] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r5---sn-3pm7kn7e.googlevideo.com/videoplayback?expire=1596124847&ei=T5oiX_DcGKqD1d8P9uqIiAo&ip=219.161.81.129&id=o-AOWlWer440wYLyh-IhgEiasybP8EXpNmhUhg3JDnHUiC&itag=251&source=youtube&requiressl=yes&mh=u_&mm=31%2C26&mn=sn-3pm7kn7e%2Csn-ogul7n7z&ms=au%2Conr&mv=m&mvi=5&pl=14&initcwndbps=1302500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=3781954&dur=207.061&lmt=1568636651544706&mt=1596103110&fvip=5&keepalive=yes&fexp=23883098&c=WEB&txp=2301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgNk7QsKPkdaPp3XxD-ZTSm0jK3uAdMcSB4PfCMSMghj0CIQC79IQscCfsdffS1IHvHBRuPN0bqBxiEJJedsm_l3_amw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgK_g-_A9tH6kLgg2BtwXPYm7PftyenmOFI1fsMt1S0UwCICxUFyDdGnd4cNS6iXAW8ysunI7Hy-cK3YJqNn9GpIza
+[19:00:48] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:00:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3c397f51fcb9-KIX]
+[19:02:48] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track h5N31z2CDrM
+[19:02:48] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:02:48] [DEBUG] [LocalAudioTrackExecutor]: Playing track h5N31z2CDrM finished or was stopped.
+[19:02:48] [INFO] [Stop]: ê¶éIÅIÇ≈ s!stop Çé¿çsÇµÇ‹ÇµÇΩÅB
+[19:02:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3efe8ba6fcb9-KIX]
+[19:02:48] [DEBUG] [RateLimiter]: Backing off 2305 milliseconds on route /guilds/602446508289163284/members/@me/nick
+[19:02:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3efe9bc6fcb9-KIX]
+[19:02:48] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"602446508289163284","channel_id":null,"self_mute":false}}
+[19:02:51] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3f0e7a29fcb9-KIX]
+[19:03:19] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fbe6c0afcb9-KIX]
+[19:03:19] [DEBUG] [YoutubeAudioSourceManager]: Starting to load playlist with ID PLD3FC61763E88EDD9
+[19:03:19] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":602446508289163284,"channel_id":602446677005303808,"self_mute":false}}
+[19:03:19] [DEBUG] [DefaultAudioPlayerManager]: Loaded a playlist with identifier https://www.youtube.com/playlist?list=PLD3FC61763E88EDD9 using YoutubeAudioSourceManager.
+[19:03:19] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:03:20] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[19:03:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fc3d8c1fcb9-KIX]
+[19:03:20] [DEBUG] [YoutubeAudioSourceManager]: Starting to load playlist with ID PL2pKrVppXEA7RfKF5oSk2J_hDvLJqiTmC
+[19:03:20] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track G1gY817x-Dw locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:03:20] [DEBUG] [AudioWebSocket]: Using encryption mode xsalsa20_poly1305_lite
+[19:03:20] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fc5bcd2fcb9-KIX]
+[19:03:20] [DEBUG] [DefaultAudioPlayerManager]: Loaded a playlist with identifier https://www.youtube.com/playlist?list=PL2pKrVppXEA7RfKF5oSk2J_hDvLJqiTmC using YoutubeAudioSourceManager.
+[19:03:20] [DEBUG] [YoutubeAudioSourceManager]: Starting to load playlist with ID PLwhO4rHqTKX8eYG8QbeZdln3i3Cufc7WB
+[19:03:20] [DEBUG] [DefaultAudioPlayerManager]: Loaded a playlist with identifier https://www.youtube.com/playlist?list=PLwhO4rHqTKX8eYG8QbeZdln3i3Cufc7WB using YoutubeAudioSourceManager.
+[19:03:20] [DEBUG] [YoutubeSignatureCipherManager]: Parsing cipher from player script /s/player/f82a8c37/player_ias.vflset/ja_JP/base.js.
+[19:03:20] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r1---sn-3pm76n7z.googlevideo.com/videoplayback?expire=1596124999&ei=55oiX8uhHMOQs8IPs-uWiA4&ip=219.161.81.129&id=o-ACojQ0ZlIdn2Xrj0WFzVEHtf0E81mQrK6yR6J2sz5hKk&itag=251&source=youtube&requiressl=yes&mh=jT&mm=31%2C26&mn=sn-3pm76n7z%2Csn-ogul7n7d&ms=au%2Conr&mv=m&mvi=1&pl=14&initcwndbps=1245000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4617291&dur=298.281&lmt=1576486032610405&mt=1596103289&fvip=1&keepalive=yes&fexp=23883098&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgFxHiOebAH_GI9YwY87x_i4mse75ZPI9ApDG9lbRr9qMCIBhjrzOQQ9rLncXl8I7WMfZDHdXOXYk-Ann7xKigBNJl&ratebypass=yes&sig=AOq0QJ8wRAIgYr6BQMGVUHY1jGC_NHH3d7ssCmmE6Ik7_LqvnnCFkR8CIBVL1ne4W4UBDpfbWmssMtXSWu-I2kPG7OrEYZtWnAkD
+[19:03:21] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:03:21] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fc9bd9bfcb9-KIX]
+[19:03:24] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track G1gY817x-Dw
+[19:03:24] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:03:24] [INFO] [Stop]: ê¶éIÅIÇ≈ s!stop Çé¿çsÇµÇ‹ÇµÇΩÅB
+[19:03:24] [DEBUG] [LocalAudioTrackExecutor]: Playing track G1gY817x-Dw finished or was stopped.
+[19:03:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fdd9a02fcb9-KIX]
+[19:03:24] [DEBUG] [RateLimiter]: Backing off 2622 milliseconds on route /guilds/602446508289163284/members/@me/nick
+[19:03:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fdd89c7fcb9-KIX]
+[19:03:24] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"602446508289163284","channel_id":null,"self_mute":false}}
+[19:03:27] [DEBUG] [Requester]: Received response with following cf-rays: [5bae3fef7d45fcb9-KIX]
+[19:03:45] [DEBUG] [Requester]: Received response with following cf-rays: [5bae40647c3efcb9-KIX]
+[19:03:46] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":602446508289163284,"channel_id":602446677005303808,"self_mute":false}}
+[19:03:46] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/vOPOpf_NEwA using YoutubeAudioSourceManager.
+[19:03:46] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:03:46] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[19:03:46] [DEBUG] [Requester]: Received response with following cf-rays: [5bae406a59c6fcb9-KIX]
+[19:03:46] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track vOPOpf_NEwA locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:03:46] [DEBUG] [AudioWebSocket]: Using encryption mode xsalsa20_poly1305_lite
+[19:03:47] [DEBUG] [Requester]: Received response with following cf-rays: [5bae406bfd13fcb9-KIX]
+[19:03:47] [DEBUG] [Requester]: Received response with following cf-rays: [5bae406c0d41fcb9-KIX]
+[19:03:47] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r4---sn-3pm7sn7z.googlevideo.com/videoplayback?expire=1596125025&ei=AZsiX6TpOYLMqAHe4oGgBA&ip=219.161.81.129&id=o-ABSmLMMbAKxNMSFXSBrOBqdqUHn3ptwlXxf-IJaA1RE7&itag=251&source=youtube&requiressl=yes&mh=wi&mm=31%2C29&mn=sn-3pm7sn7z%2Csn-3pm7kn7z&ms=au%2Crdu&mv=m&mvi=4&pl=14&initcwndbps=1360000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4385116&dur=284.281&lmt=1530169305692788&mt=1596103289&fvip=4&keepalive=yes&fexp=23883098&beids=9466588&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAPI3osYFQ1z8KCmNkwr4b5EA1jpDTAqjUTQ3LhAEoVpGAiEApaKPDvg8OmT6aXrbNrS-UzooX7EHFUO9Y7YSwZvWpR0%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAPVNzKHkQjsqL6j4Qe7DWb7Oyjllnrz7dZWvLAkVj37dAiBCka6suPX6NxgLFbHZyVeETzdpXTLN9I3vFc6RjTm3Ug%3D%3D
+[19:03:47] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:03:50] [INFO] [Volume]: ê¶éIÅIÇ≈ÇÃâπó Ç™100Ç©ÇÁ150Ç…ïœçXÇ≥ÇÍÇ‹ÇµÇΩÅB
+[19:03:50] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:03:50] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 251 buffered frames.
+[19:03:50] [DEBUG] [Requester]: Received response with following cf-rays: [5bae40835e55fcb9-KIX]
+[19:04:00] [DEBUG] [Requester]: Received response with following cf-rays: [5bae40bdca60fcb9-KIX]
+[19:04:05] [DEBUG] [Requester]: Received response with following cf-rays: [5bae40ddca53fcb9-KIX]
+[19:04:08] [DEBUG] [Requester]: Received response with following cf-rays: [5bae40f15e1efcb9-KIX]
+[19:04:09] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/gwqiHYhWfig using YoutubeAudioSourceManager.
+[19:04:09] [DEBUG] [Requester]: Received response with following cf-rays: [5bae40f81cf8fcb9-KIX]
+[19:04:28] [DEBUG] [Requester]: Received response with following cf-rays: [5bae416c9dbafcb9-KIX]
+[19:05:48] [DEBUG] [Requester]: Received response with following cf-rays: [5bae43603e58fcb9-KIX]
+[19:05:55] [DEBUG] [Requester]: Received response with following cf-rays: [5bae438dfb1cfcb9-KIX]
+[19:06:06] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7sn7z.googlevideo.com/videoplayback?expire=1596125025&ei=AZsiX6TpOYLMqAHe4oGgBA&ip=219.161.81.129&id=o-ABSmLMMbAKxNMSFXSBrOBqdqUHn3ptwlXxf-IJaA1RE7&itag=251&source=youtube&requiressl=yes&mh=wi&mm=31%2C29&mn=sn-3pm7sn7z%2Csn-3pm7kn7z&ms=au%2Crdu&mv=m&mvi=4&pl=14&initcwndbps=1360000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4385116&dur=284.281&lmt=1530169305692788&mt=1596103289&fvip=4&keepalive=yes&fexp=23883098&beids=9466588&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAPI3osYFQ1z8KCmNkwr4b5EA1jpDTAqjUTQ3LhAEoVpGAiEApaKPDvg8OmT6aXrbNrS-UzooX7EHFUO9Y7YSwZvWpR0%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAPVNzKHkQjsqL6j4Qe7DWb7Oyjllnrz7dZWvLAkVj37dAiBCka6suPX6NxgLFbHZyVeETzdpXTLN9I3vFc6RjTm3Ug%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:07:47] [DEBUG] [Requester]: Received response with following cf-rays: [5bae464cce07fcb9-KIX]
+[19:07:54] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7sn7z.googlevideo.com/videoplayback?expire=1596125025&ei=AZsiX6TpOYLMqAHe4oGgBA&ip=219.161.81.129&id=o-ABSmLMMbAKxNMSFXSBrOBqdqUHn3ptwlXxf-IJaA1RE7&itag=251&source=youtube&requiressl=yes&mh=wi&mm=31%2C29&mn=sn-3pm7sn7z%2Csn-3pm7kn7z&ms=au%2Crdu&mv=m&mvi=4&pl=14&initcwndbps=1360000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4385116&dur=284.281&lmt=1530169305692788&mt=1596103289&fvip=4&keepalive=yes&fexp=23883098&beids=9466588&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAPI3osYFQ1z8KCmNkwr4b5EA1jpDTAqjUTQ3LhAEoVpGAiEApaKPDvg8OmT6aXrbNrS-UzooX7EHFUO9Y7YSwZvWpR0%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAPVNzKHkQjsqL6j4Qe7DWb7Oyjllnrz7dZWvLAkVj37dAiBCka6suPX6NxgLFbHZyVeETzdpXTLN9I3vFc6RjTm3Ug%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:08:24] [DEBUG] [Requester]: Received response with following cf-rays: [5bae47314f64fcb9-KIX]
+[19:08:31] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:08:31] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:08:31] [DEBUG] [LocalAudioTrackExecutor]: Playing track vOPOpf_NEwA finished or was stopped.
+[19:08:32] [WARN] [RateLimiter]: Encountered 429 on route /channels/694138626920939600
+[19:08:32] [DEBUG] [Requester]: Received response with following cf-rays: [5bae4760bf27fcb9-KIX]
+[19:08:32] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track gwqiHYhWfig locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:08:32] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":1970107,"width":1280,"height":720,"lastModified":"1508369497424710","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"185759","audioSampleRate":"44100","audioChannels":2,"signatureCipher":"s=KAOq0QJ8wRQIhALj0UeyEDClIWFuZS1x447OoYeVyOtmy8O-qnbfcnWaAAiAHyW6dCLZFl514BUCwNmWaFJrAKtzaL0fIwTHLvyVs9w%3D%3Dw%3D%3D&sp=sig&url=https://r3---sn-3pm7snes.googlevideo.com/videoplayback%3Fexpire%3D1596125311%26ei%3DH5wiX6PTD4GKlQSKzrmgBg%26ip%3D219.161.81.129%26id%3Do-AEtJ4aRaI4Fx7rFRT0bmKB9bPngd8Xe9KdBMvulug0OE%26itag%3D22%26source%3Dyoutube%26requiressl%3Dyes%26mh%3Dg_%26mm%3D31%252C29%26mn%3Dsn-3pm7snes%252Csn-3pm76n7r%26ms%3Dau%252Crdu%26mv%3Dm%26mvi%3D3%26pl%3D14%26initcwndbps%3D1308750%26vprv%3D1%26mime%3Dvideo%252Fmp4%26ratebypass%3Dyes%26dur%3D185.759%26lmt%3D1508369497424710%26mt%3D1596103588%26fvip%3D3%26fexp%3D23883098%26c%3DWEB%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cvprv%252Cmime%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgU1v_Nbv6N26XxXka6qt172Xct0oRIYEpnqtlit5ywMMCICj6iUuJJWBfpf7hUXfIMGmS8yTQZ8nJUGivoeAqXqiF"}, skipping
+[19:08:32] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r3---sn-3pm7snes.googlevideo.com/videoplayback?expire=1596125311&ei=H5wiX6PTD4GKlQSKzrmgBg&ip=219.161.81.129&id=o-AEtJ4aRaI4Fx7rFRT0bmKB9bPngd8Xe9KdBMvulug0OE&itag=251&source=youtube&requiressl=yes&mh=g_&mm=31%2C29&mn=sn-3pm7snes%2Csn-3pm76n7r&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1308750&vprv=1&mime=audio%2Fwebm&gir=yes&clen=2814437&dur=185.701&lmt=1504241922479041&mt=1596103588&fvip=3&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANHHwdO6RdIFDyiPHVZCWd91sCINvvDLMnliqoRyzIckAiEAhj7bLKWTipG4iVzNO7SEyMSE5q1Z7jTriMkcmU2maOI%3D&ratebypass=yes&sig=AOq0QJ8wRAIgTT5LshPGBTnGrS0AzstnaAa3IaOBrq9voU-GpzsNLCkCIDoX2wi34A91MNBQYbjOOFde_SkfNFyXGyGtRPiMF4rb
+[19:08:32] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:08:32] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:08:32] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[19:08:36] [DEBUG] [Requester]: Received response with following cf-rays: [5bae477e88a0fcb9-KIX]
+[19:08:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bae47ae2e81fcb9-KIX]
+[19:08:46] [DEBUG] [Requester]: Received response with following cf-rays: [5bae47b8d8b0fcb9-KIX]
+[19:08:51] [DEBUG] [Requester]: Received response with following cf-rays: [5bae47d7c89ffcb9-KIX]
+[19:09:02] [DEBUG] [Requester]: Received response with following cf-rays: [5bae481cbe0afcb9-KIX]
+[19:09:02] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=I5DgRDcC_xw&t=2s using YoutubeAudioSourceManager.
+[19:09:03] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=vpYoz5Pn0cY&t=4s using YoutubeAudioSourceManager.
+[19:09:03] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=TcYYa8oF86w using YoutubeAudioSourceManager.
+[19:09:04] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=ixtaG7vRsR0&t=386s using YoutubeAudioSourceManager.
+[19:09:05] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=o9tMNFQE4Og using YoutubeAudioSourceManager.
+[19:09:05] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=Bgt5cezbjHg&t=2s using YoutubeAudioSourceManager.
+[19:09:06] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=ID0Nlk4jjTE using YoutubeAudioSourceManager.
+[19:09:07] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=h5N31z2CDrM using YoutubeAudioSourceManager.
+[19:09:07] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=Ar5AVOoOaVo&t=2s using YoutubeAudioSourceManager.
+[19:09:07] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=ZZWoBhFYQLk using YoutubeAudioSourceManager.
+[19:09:08] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=K41zO0yA2X0 using YoutubeAudioSourceManager.
+[19:09:08] [DEBUG] [Requester]: Received response with following cf-rays: [5bae4844fb4afcb9-KIX]
+[19:09:08] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/mmIevLsPJPQ using YoutubeAudioSourceManager.
+[19:09:09] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/8YgVjbvT-i4 using YoutubeAudioSourceManager.
+[19:09:09] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/hwBhMEZls34 using YoutubeAudioSourceManager.
+[19:09:10] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/1S0545cxziY using YoutubeAudioSourceManager.
+[19:09:10] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/KHsOuTstUmA using YoutubeAudioSourceManager.
+[19:09:11] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/e4peiYgnsAE using YoutubeAudioSourceManager.
+[19:09:11] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/eGQv2DPeIXg using YoutubeAudioSourceManager.
+[19:09:11] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/iCVUx67OxQo using YoutubeAudioSourceManager.
+[19:09:12] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/vQc10JS5QLo using YoutubeAudioSourceManager.
+[19:09:12] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://www.youtube.com/watch?v=6lcJPXVRERs using YoutubeAudioSourceManager.
+[19:09:13] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/D3H0y0dYwyo using YoutubeAudioSourceManager.
+[19:09:13] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/EMZdaPE1ojo using YoutubeAudioSourceManager.
+[19:09:14] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/ePFkN0vbzHY using YoutubeAudioSourceManager.
+[19:09:14] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/Gn8Pofrf0Cw using YoutubeAudioSourceManager.
+[19:09:14] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/I-hotHxAkA4 using YoutubeAudioSourceManager.
+[19:09:15] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/zdm9aI2EU-A using YoutubeAudioSourceManager.
+[19:09:15] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/fgm-XmTZFj8 using YoutubeAudioSourceManager.
+[19:09:16] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/qikQ5pUvo1w using YoutubeAudioSourceManager.
+[19:09:16] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/SffjQDpS2K8 using YoutubeAudioSourceManager.
+[19:09:17] [DEBUG] [DefaultAudioPlayerManager]: Loaded a track with identifier https://youtu.be/Ei_4LRPO4Tk using YoutubeAudioSourceManager.
+[19:09:17] [DEBUG] [Requester]: Received response with following cf-rays: [5bae487d0dfefcb9-KIX]
+[19:10:50] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm7snes.googlevideo.com/videoplayback?expire=1596125311&ei=H5wiX6PTD4GKlQSKzrmgBg&ip=219.161.81.129&id=o-AEtJ4aRaI4Fx7rFRT0bmKB9bPngd8Xe9KdBMvulug0OE&itag=251&source=youtube&requiressl=yes&mh=g_&mm=31%2C29&mn=sn-3pm7snes%2Csn-3pm76n7r&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1308750&vprv=1&mime=audio%2Fwebm&gir=yes&clen=2814437&dur=185.701&lmt=1504241922479041&mt=1596103588&fvip=3&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANHHwdO6RdIFDyiPHVZCWd91sCINvvDLMnliqoRyzIckAiEAhj7bLKWTipG4iVzNO7SEyMSE5q1Z7jTriMkcmU2maOI%3D&ratebypass=yes&sig=AOq0QJ8wRAIgTT5LshPGBTnGrS0AzstnaAa3IaOBrq9voU-GpzsNLCkCIDoX2wi34A91MNBQYbjOOFde_SkfNFyXGyGtRPiMF4rb.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:11:17] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm7snes.googlevideo.com/videoplayback?expire=1596125311&ei=H5wiX6PTD4GKlQSKzrmgBg&ip=219.161.81.129&id=o-AEtJ4aRaI4Fx7rFRT0bmKB9bPngd8Xe9KdBMvulug0OE&itag=251&source=youtube&requiressl=yes&mh=g_&mm=31%2C29&mn=sn-3pm7snes%2Csn-3pm76n7r&ms=au%2Crdu&mv=m&mvi=3&pl=14&initcwndbps=1308750&vprv=1&mime=audio%2Fwebm&gir=yes&clen=2814437&dur=185.701&lmt=1504241922479041&mt=1596103588&fvip=3&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANHHwdO6RdIFDyiPHVZCWd91sCINvvDLMnliqoRyzIckAiEAhj7bLKWTipG4iVzNO7SEyMSE5q1Z7jTriMkcmU2maOI%3D&ratebypass=yes&sig=AOq0QJ8wRAIgTT5LshPGBTnGrS0AzstnaAa3IaOBrq9voU-GpzsNLCkCIDoX2wi34A91MNBQYbjOOFde_SkfNFyXGyGtRPiMF4rb.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:11:38] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:11:38] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:11:38] [DEBUG] [LocalAudioTrackExecutor]: Playing track gwqiHYhWfig finished or was stopped.
+[19:11:38] [DEBUG] [Requester]: Received response with following cf-rays: [5bae4bf14aa7fcb9-KIX]
+[19:11:38] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track I5DgRDcC_xw locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:11:39] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":621895,"width":1280,"height":720,"lastModified":"1540628696355436","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"402192","audioSampleRate":"44100","audioChannels":2,"signatureCipher":"s=6AOq0QJ8wRQIhAKjKZsWYvQ6bbi-_Ab1xaugj2qXP5Y0w8LoTVT36j6cAAiA97_doU3iIqF3q5XsRiIkXOSxvIkH_WJJg7pe6I5wb3Q%3D%3DQ%3D%3D&sp=sig&url=https://r2---sn-3pm76n76.googlevideo.com/videoplayback%3Fexpire%3D1596125498%26ei%3D2pwiX5P3BNallQTcjKSoDg%26ip%3D219.161.81.129%26id%3Do-APe3BDPcM0MpaNFjY8laHpHiY22fwI39lztwtjz-Zizx%26itag%3D22%26source%3Dyoutube%26requiressl%3Dyes%26mh%3D5N%26mm%3D31%252C29%26mn%3Dsn-3pm76n76%252Csn-3pm7sne7%26ms%3Dau%252Crdu%26mv%3Dm%26mvi%3D2%26pl%3D14%26pcm2%3Dyes%26initcwndbps%3D1175000%26vprv%3D1%26mime%3Dvideo%252Fmp4%26ratebypass%3Dyes%26dur%3D402.192%26lmt%3D1540628696355436%26mt%3D1596103709%26fvip%3D2%26fexp%3D23883098%26c%3DWEB%26txp%3D5431432%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cpcm2%252Cvprv%252Cmime%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Cinitcwndbps%26lsig%3DAG3C_xAwRAIgYzuj-zO_iJUI9uTEmtL_-P3ieKuEMe2-u2J6jblPIVsCIAfZDSET2VBKYo5wtDmHRNuHjdbSl1UVm6X6cK7yi_Ii"}, skipping
+[19:11:39] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r2---sn-3pm76n76.googlevideo.com/videoplayback?expire=1596125498&ei=2pwiX5P3BNallQTcjKSoDg&ip=219.161.81.129&id=o-APe3BDPcM0MpaNFjY8laHpHiY22fwI39lztwtjz-Zizx&itag=251&source=youtube&requiressl=yes&mh=5N&mm=31%2C29&mn=sn-3pm76n76%2Csn-3pm7sne7&ms=au%2Crdu&mv=m&mvi=2&pl=14&pcm2=yes&initcwndbps=1175000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6741176&dur=402.161&lmt=1540630785127507&mt=1596103709&fvip=2&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgYjB6545dt3DJ8rzlpHdofd-BHoiUuPfn-bTErBhCLgwCIQCTvDljdp2DNtRnh18vHjxWesZeeRUK18juJS9QpdcdzA%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgWG8HuiItlvZgTusxgUgAt8T-KqMWjSCjoNGW9_hYdyYCIFFRKsOp_t58240bioI5ONuFOYC_5G0jwZ8p1qM7_q8s
+[19:11:39] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:11:39] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:11:39] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[19:13:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bae4ea14b01fcb9-KIX]
+[19:13:36] [DEBUG] [Requester]: Received response with following cf-rays: [5bae4ed25f94fcb9-KIX]
+[19:13:44] [DEBUG] [Requester]: Received response with following cf-rays: [5bae4f03c948fcb9-KIX]
+[19:17:13] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r2---sn-3pm76n76.googlevideo.com/videoplayback?expire=1596125498&ei=2pwiX5P3BNallQTcjKSoDg&ip=219.161.81.129&id=o-APe3BDPcM0MpaNFjY8laHpHiY22fwI39lztwtjz-Zizx&itag=251&source=youtube&requiressl=yes&mh=5N&mm=31%2C29&mn=sn-3pm76n76%2Csn-3pm7sne7&ms=au%2Crdu&mv=m&mvi=2&pl=14&pcm2=yes&initcwndbps=1175000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6741176&dur=402.161&lmt=1540630785127507&mt=1596103709&fvip=2&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgYjB6545dt3DJ8rzlpHdofd-BHoiUuPfn-bTErBhCLgwCIQCTvDljdp2DNtRnh18vHjxWesZeeRUK18juJS9QpdcdzA%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgWG8HuiItlvZgTusxgUgAt8T-KqMWjSCjoNGW9_hYdyYCIFFRKsOp_t58240bioI5ONuFOYC_5G0jwZ8p1qM7_q8s.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:17:39] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r2---sn-3pm76n76.googlevideo.com/videoplayback?expire=1596125498&ei=2pwiX5P3BNallQTcjKSoDg&ip=219.161.81.129&id=o-APe3BDPcM0MpaNFjY8laHpHiY22fwI39lztwtjz-Zizx&itag=251&source=youtube&requiressl=yes&mh=5N&mm=31%2C29&mn=sn-3pm76n76%2Csn-3pm7sne7&ms=au%2Crdu&mv=m&mvi=2&pl=14&pcm2=yes&initcwndbps=1175000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6741176&dur=402.161&lmt=1540630785127507&mt=1596103709&fvip=2&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgYjB6545dt3DJ8rzlpHdofd-BHoiUuPfn-bTErBhCLgwCIQCTvDljdp2DNtRnh18vHjxWesZeeRUK18juJS9QpdcdzA%3D%3D&ratebypass=yes&sig=AOq0QJ8wRAIgWG8HuiItlvZgTusxgUgAt8T-KqMWjSCjoNGW9_hYdyYCIFFRKsOp_t58240bioI5ONuFOYC_5G0jwZ8p1qM7_q8s.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:18:21] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:18:21] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:18:21] [DEBUG] [LocalAudioTrackExecutor]: Playing track I5DgRDcC_xw finished or was stopped.
+[19:18:22] [DEBUG] [Requester]: Received response with following cf-rays: [5bae55c9fae3fcb9-KIX]
+[19:18:22] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track vpYoz5Pn0cY locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:18:22] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r4---sn-3pm7dn7d.googlevideo.com/videoplayback?expire=1596125901&ei=bZ4iX_ujHuGrs8IP4Mq6mA0&ip=219.161.81.129&id=o-AKdpXl2iIHiAQ44bNuqQjyEPrmV-1_aTyCV4BrNfNl1-&itag=22&source=youtube&requiressl=yes&mh=r0&mm=31%2C26&mn=sn-3pm7dn7d%2Csn-ogueln7s&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1245000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=337.896&lmt=1545625968845631&mt=1596104187&fvip=4&fexp=23883098&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgHzvFJC17xxvmGnJnshE6juNWwsB3YeuM9yBEyKC36pkCIQDv1TZCSQNmLovyF778z5YnpEvEHmgaSvXf0GUvVlsQEQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgHBetG1uU25PtYUKjN5EYRdY-T4B3AmGW99Ks7JL9l8cCIHng7INrYq6FClsKLATRgfUNxujxpUs_o8VteIRbuJKb","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":733587,"width":1280,"height":720,"lastModified":"1545625968845631","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"337896","audioSampleRate":"44100","audioChannels":2}, skipping
+[19:18:22] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r4---sn-3pm7dn7d.googlevideo.com/videoplayback?expire=1596125901&ei=bZ4iX_ujHuGrs8IP4Mq6mA0&ip=219.161.81.129&id=o-AKdpXl2iIHiAQ44bNuqQjyEPrmV-1_aTyCV4BrNfNl1-&itag=251&source=youtube&requiressl=yes&mh=r0&mm=31%2C26&mn=sn-3pm7dn7d%2Csn-ogueln7s&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1245000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4883927&dur=337.861&lmt=1545627240729645&mt=1596104187&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAOs3BbxHnfIYRQAwrE58iEuc-mlT0U4PN68qfEXmEVRGAiEA4Geb6_pyWdwOPlXO5fPvL4qmRQLd5WI8WkfADYPRzv0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgHBetG1uU25PtYUKjN5EYRdY-T4B3AmGW99Ks7JL9l8cCIHng7INrYq6FClsKLATRgfUNxujxpUs_o8VteIRbuJKb
+[19:18:22] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:18:22] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:18:22] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[19:18:29] [DEBUG] [Requester]: Received response with following cf-rays: [5bae55f52ab4fcb9-KIX]
+[19:23:24] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7d.googlevideo.com/videoplayback?expire=1596125901&ei=bZ4iX_ujHuGrs8IP4Mq6mA0&ip=219.161.81.129&id=o-AKdpXl2iIHiAQ44bNuqQjyEPrmV-1_aTyCV4BrNfNl1-&itag=251&source=youtube&requiressl=yes&mh=r0&mm=31%2C26&mn=sn-3pm7dn7d%2Csn-ogueln7s&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1245000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4883927&dur=337.861&lmt=1545627240729645&mt=1596104187&fvip=4&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAOs3BbxHnfIYRQAwrE58iEuc-mlT0U4PN68qfEXmEVRGAiEA4Geb6_pyWdwOPlXO5fPvL4qmRQLd5WI8WkfADYPRzv0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgHBetG1uU25PtYUKjN5EYRdY-T4B3AmGW99Ks7JL9l8cCIHng7INrYq6FClsKLATRgfUNxujxpUs_o8VteIRbuJKb.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:24:00] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:24:00] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:24:00] [DEBUG] [LocalAudioTrackExecutor]: Playing track vpYoz5Pn0cY finished or was stopped.
+[19:24:01] [DEBUG] [Requester]: Received response with following cf-rays: [5bae5e0ffabcae91-KIX]
+[19:24:01] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track TcYYa8oF86w locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:24:01] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596126240&ei=wJ8iX-eLHbWvlQSD16b4DA&ip=219.161.81.129&id=o-AKzJZofCd4v-KY3WaBjlmILk2XZi-jLXkP45uBR9MfOm&itag=22&source=youtube&requiressl=yes&mh=0Y&mm=31%2C26&mn=sn-3pm76n7d%2Csn-oguelner&ms=au%2Conr&mv=m&mvi=3&pl=14&initcwndbps=1235000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=352.757&lmt=1572262106322221&mt=1596104488&fvip=3&fexp=23883098&c=WEB&txp=5306222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAN_AvoXf5gYSB7bURLyOxSeJJIaNJLGfJc28q4GptgTMAiEAhCta44xviRzCuBvthrkvH2bekdOc2MfnsSN0BqC6FDw%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgGtyiizOTANnGu1iJLQdjCIElFho_TR9Dx6RaLmkFkjoCIAaKcTXUv_Zt7DKXvPuBYXhkScZu1iPLyN4s9fqIrex7","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":567681,"width":1280,"height":720,"lastModified":"1572262106322221","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"352757","audioSampleRate":"44100","audioChannels":2}, skipping
+[19:24:01] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596126240&ei=wJ8iX-eLHbWvlQSD16b4DA&ip=219.161.81.129&id=o-AKzJZofCd4v-KY3WaBjlmILk2XZi-jLXkP45uBR9MfOm&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C26&mn=sn-3pm76n7d%2Csn-oguelner&ms=au%2Conr&mv=m&mvi=3&pl=14&initcwndbps=1235000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596104488&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMgO5YPHt9omGe1pAVeBrEoedHMLxBAQWXsroD1PLc1uAiBZIKLNXeILS-hbPFrJJJe5hTdjjKRrSNk75rGYcoU2mA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgGtyiizOTANnGu1iJLQdjCIElFho_TR9Dx6RaLmkFkjoCIAaKcTXUv_Zt7DKXvPuBYXhkScZu1iPLyN4s9fqIrex7
+[19:24:01] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:24:01] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:24:01] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[19:29:05] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596126240&ei=wJ8iX-eLHbWvlQSD16b4DA&ip=219.161.81.129&id=o-AKzJZofCd4v-KY3WaBjlmILk2XZi-jLXkP45uBR9MfOm&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C26&mn=sn-3pm76n7d%2Csn-oguelner&ms=au%2Conr&mv=m&mvi=3&pl=14&initcwndbps=1235000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596104488&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMgO5YPHt9omGe1pAVeBrEoedHMLxBAQWXsroD1PLc1uAiBZIKLNXeILS-hbPFrJJJe5hTdjjKRrSNk75rGYcoU2mA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgGtyiizOTANnGu1iJLQdjCIElFho_TR9Dx6RaLmkFkjoCIAaKcTXUv_Zt7DKXvPuBYXhkScZu1iPLyN4s9fqIrex7.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:29:31] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r3---sn-3pm76n7d.googlevideo.com/videoplayback?expire=1596126240&ei=wJ8iX-eLHbWvlQSD16b4DA&ip=219.161.81.129&id=o-AKzJZofCd4v-KY3WaBjlmILk2XZi-jLXkP45uBR9MfOm&itag=251&source=youtube&requiressl=yes&mh=0Y&mm=31%2C26&mn=sn-3pm76n7d%2Csn-oguelner&ms=au%2Conr&mv=m&mvi=3&pl=14&initcwndbps=1235000&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6277925&dur=352.721&lmt=1572263759650444&mt=1596104488&fvip=3&keepalive=yes&fexp=23883098&c=WEB&txp=5301222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMgO5YPHt9omGe1pAVeBrEoedHMLxBAQWXsroD1PLc1uAiBZIKLNXeILS-hbPFrJJJe5hTdjjKRrSNk75rGYcoU2mA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgGtyiizOTANnGu1iJLQdjCIElFho_TR9Dx6RaLmkFkjoCIAaKcTXUv_Zt7DKXvPuBYXhkScZu1iPLyN4s9fqIrex7.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:29:54] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:29:54] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:29:54] [DEBUG] [LocalAudioTrackExecutor]: Playing track TcYYa8oF86w finished or was stopped.
+[19:29:54] [DEBUG] [Requester]: Received response with following cf-rays: [5bae66b3b9e00a6c-KIX]
+[19:29:54] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track ixtaG7vRsR0 locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:29:55] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596126594&ei=IqEiX-ufDImMlQTW8bqYDw&ip=219.161.81.129&id=o-AEZ-4CdsHB5hV7jp8Nh-3q_YAqc3Iys5UFYenomkZkrw&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-ogul7ne6&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596104910&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKgS4RCJvfw0AaurwM_X3YcKLPMdKqKksVsmkSgipL1sAiEAkVtaAx51OSxWx6WhvB8RPIEETvhvkiKhGG0Np_HkCh4%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAOFOulwV8YwFz3glR_APm7b_ZPd7Az0J46_ZlqRF_pWbAiAH1D9RMs4rsPBAjpZi5-J3q60F-659pZFNgJjEdu3eCw%3D%3D
+[19:29:55] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:29:55] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:29:55] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[19:46:10] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596126594&ei=IqEiX-ufDImMlQTW8bqYDw&ip=219.161.81.129&id=o-AEZ-4CdsHB5hV7jp8Nh-3q_YAqc3Iys5UFYenomkZkrw&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-ogul7ne6&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596104910&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKgS4RCJvfw0AaurwM_X3YcKLPMdKqKksVsmkSgipL1sAiEAkVtaAx51OSxWx6WhvB8RPIEETvhvkiKhGG0Np_HkCh4%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAOFOulwV8YwFz3glR_APm7b_ZPd7Az0J46_ZlqRF_pWbAiAH1D9RMs4rsPBAjpZi5-J3q60F-659pZFNgJjEdu3eCw%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:47:15] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596126594&ei=IqEiX-ufDImMlQTW8bqYDw&ip=219.161.81.129&id=o-AEZ-4CdsHB5hV7jp8Nh-3q_YAqc3Iys5UFYenomkZkrw&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-ogul7ne6&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596104910&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKgS4RCJvfw0AaurwM_X3YcKLPMdKqKksVsmkSgipL1sAiEAkVtaAx51OSxWx6WhvB8RPIEETvhvkiKhGG0Np_HkCh4%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAOFOulwV8YwFz3glR_APm7b_ZPd7Az0J46_ZlqRF_pWbAiAH1D9RMs4rsPBAjpZi5-J3q60F-659pZFNgJjEdu3eCw%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:47:45] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596126594&ei=IqEiX-ufDImMlQTW8bqYDw&ip=219.161.81.129&id=o-AEZ-4CdsHB5hV7jp8Nh-3q_YAqc3Iys5UFYenomkZkrw&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-ogul7ne6&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596104910&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKgS4RCJvfw0AaurwM_X3YcKLPMdKqKksVsmkSgipL1sAiEAkVtaAx51OSxWx6WhvB8RPIEETvhvkiKhGG0Np_HkCh4%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAOFOulwV8YwFz3glR_APm7b_ZPd7Az0J46_ZlqRF_pWbAiAH1D9RMs4rsPBAjpZi5-J3q60F-659pZFNgJjEdu3eCw%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:48:11] [DEBUG] [PersistentHttpStream]: Encountered retriable exception on url https://r4---sn-3pm7dn7k.googlevideo.com/videoplayback?expire=1596126594&ei=IqEiX-ufDImMlQTW8bqYDw&ip=219.161.81.129&id=o-AEZ-4CdsHB5hV7jp8Nh-3q_YAqc3Iys5UFYenomkZkrw&itag=251&source=youtube&requiressl=yes&mh=2E&mm=31%2C26&mn=sn-3pm7dn7k%2Csn-ogul7ne6&ms=au%2Conr&mv=m&mvi=4&pl=14&initcwndbps=1216250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=17032351&dur=1124.381&lmt=1488511895896371&mt=1596104910&fvip=4&keepalive=yes&fexp=23883098&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKgS4RCJvfw0AaurwM_X3YcKLPMdKqKksVsmkSgipL1sAiEAkVtaAx51OSxWx6WhvB8RPIEETvhvkiKhGG0Np_HkCh4%3D&ratebypass=yes&sig=AOq0QJ8wRQIhAOFOulwV8YwFz3glR_APm7b_ZPd7Az0J46_ZlqRF_pWbAiAH1D9RMs4rsPBAjpZi5-J3q60F-659pZFNgJjEdu3eCw%3D%3D.
+java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:425)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:65)
+	at java.base/sun.security.ssl.SSLSocketImpl.bytesInCompletePacket(SSLSocketImpl.java:918)
+	at java.base/sun.security.ssl.AppInputStream.read(AppInputStream.java:144)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+	at org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:174)
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:187)
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:276)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:250)
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39)
+	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57)
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49)
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:105)
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+[19:48:40] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:48:40] [DEBUG] [AudioPlayer]: Firing an event with class TrackStartEvent
+[19:48:40] [DEBUG] [LocalAudioTrackExecutor]: Playing track ixtaG7vRsR0 finished or was stopped.
+[19:48:41] [DEBUG] [Requester]: Received response with following cf-rays: [5bae8231fdf8fcbd-KIX]
+[19:48:41] [DEBUG] [LocalAudioTrackExecutor]: Starting to play track o9tMNFQE4Og locally with listener com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer@3778e116
+[19:48:41] [DEBUG] [DefaultYoutubeTrackDetails]: Track not a live stream, but no contentLength in format {"itag":22,"url":"https://r2---sn-3pm7sn7s.googlevideo.com/videoplayback?expire=1596127720&ei=iKUiX43zF7-G1d8P1tupqAU&ip=219.161.81.129&id=o-AKXM2Zepees2mTK6X8zYOD_DckC7LMWxzekoXvfkIEWC&itag=22&source=youtube&requiressl=yes&mh=W-&mm=31%2C29&mn=sn-3pm7sn7s%2Csn-3pm7kn7z&ms=au%2Crdu&mv=m&mvi=2&pl=14&initcwndbps=1103750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=535.661&lmt=1541072289090790&mt=1596105989&fvip=2&fexp=23883098&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPPOOa74BL5z6-IPQ_qaxV3ZxACDLsZWZfPxS2L7gOE6AiEAm5Z9xb6aOj3-lpOkXETNfB5yiK0OX0qDngUidqi_rm4%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANouN9Rz2-L_F7MSwDXVLi0XmHa-htX573kCL4aK8GbZAiBSFbLMjMg2Pg-fo6J7chTBTRFzp5_AvCfK4bQVjBilFw%3D%3D","mimeType":"video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"","bitrate":442018,"width":1280,"height":720,"lastModified":"1541072289090790","quality":"hd720","fps":30,"qualityLabel":"720p","projectionType":"RECTANGULAR","audioQuality":"AUDIO_QUALITY_MEDIUM","approxDurationMs":"535661","audioSampleRate":"44100","audioChannels":2}, skipping
+[19:48:41] [DEBUG] [YoutubeAudioTrack]: Starting track from URL: https://r2---sn-3pm7sn7s.googlevideo.com/videoplayback?expire=1596127720&ei=iKUiX43zF7-G1d8P1tupqAU&ip=219.161.81.129&id=o-AKXM2Zepees2mTK6X8zYOD_DckC7LMWxzekoXvfkIEWC&itag=251&source=youtube&requiressl=yes&mh=W-&mm=31%2C29&mn=sn-3pm7sn7s%2Csn-3pm7kn7z&ms=au%2Crdu&mv=m&mvi=2&pl=14&initcwndbps=1103750&vprv=1&mime=audio%2Fwebm&gir=yes&clen=6830243&dur=535.621&lmt=1541074112913198&mt=1596105989&fvip=2&keepalive=yes&fexp=23883098&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhALRqXAwqE_yvGBkzG61phrk9kRMEKNczISXzrLGsOmTNAiEA6CA63dydTxEz8Ynuqn33ZPBocdA8UlzZhTcR--P8bIc%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANouN9Rz2-L_F7MSwDXVLi0XmHa-htX573kCL4aK8GbZAiBSFbLMjMg2Pg-fo6J7chTBTRFzp5_AvCfK4bQVjBilFw%3D%3D
+[19:48:41] [DEBUG] [MatroskaAudioTrack]: Starting to play track with codec A_OPUS
+[19:48:41] [DEBUG] [OpusPacketRouter]: Enabling reencode mode on opus track.
+[19:48:41] [DEBUG] [AudioFrameBuffer]: Running rebuilder AudioFrameVolumeChanger on 0 buffered frames.
+[19:49:38] [DEBUG] [LocalAudioTrackExecutor]: Requesting stop for track o9tMNFQE4Og
+[19:49:38] [DEBUG] [AudioPlayer]: Firing an event with class TrackEndEvent
+[19:49:38] [DEBUG] [LocalAudioTrackExecutor]: Playing track o9tMNFQE4Og finished or was stopped.
+[19:49:38] [DEBUG] [Requester]: Received response with following cf-rays: [5bae839b6863fcbd-KIX]
+[19:49:38] [INFO] [Stop]: ê¶éIÅIÇ≈ s!stop Çé¿çsÇµÇ‹ÇµÇΩÅB
+[19:49:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bae839cebfbfcbd-KIX]
+[19:49:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bae839cdbd3fcbd-KIX]
+[19:49:39] [DEBUG] [RateLimiter]: Backing off 2710 milliseconds on route /guilds/602446508289163284/members/@me/nick
+[19:49:39] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"602446508289163284","channel_id":null,"self_mute":false}}
+[19:49:42] [DEBUG] [Requester]: Received response with following cf-rays: [5bae83af6ecffcbd-KIX]
+[19:54:39] [DEBUG] [Requester]: Received response with following cf-rays: [5bae8aefbf45fcbd-KIX]
+[20:47:25] [DEBUG] [WebSocketClient]: Got Reconnect request (OP 7). Closing connection now...
+[20:47:25] [DEBUG] [WebSocketClient]: WebSocket connection closed with code CloseCode(4000 / The server is not sure what went wrong. Try reconnecting?)
+[20:47:25] [WARN] [WebSocketClient]: Got disconnected from WebSocket. Attempting to resume session
+[20:47:25] [DEBUG] [WebSocketClient]: Attempting to reconnect in 2s
+[20:47:27] [DEBUG] [WebSocketClient]: Attempting to reconnect!
+[20:47:27] [DEBUG] [WebSocketClient]: Connected to WebSocket
+[20:47:27] [DEBUG] [WebSocketClient]: Sending Resume-packet...
+[20:47:27] [DEBUG] [WebSocketClient]: Got HELLO packet (OP 10). Initializing keep-alive.
+[20:47:27] [DEBUG] [WebSocketClient]: Received a _trace for HELLO (OP: 10) with ["[\"gateway-prd-main-p131\",{\"micros\":0.0}]"]
+[20:47:28] [INFO] [JDA]: Successfully resumed Session!
+[20:47:28] [DEBUG] [WebSocketClient]: Received a _trace for RESUMED (OP: 0) with ["[\"gateway-prd-main-p131\",{\"micros\":12033,\"calls\":[\"discord-sessions-prd-1-3\",{\"micros\":40}]}]"]
+[21:21:43] [DEBUG] [WebSocketClient]: Sending voice request {"op":4,"d":{"self_deaf":false,"guild_id":"710329745958502441","channel_id":null,"self_mute":false}}
