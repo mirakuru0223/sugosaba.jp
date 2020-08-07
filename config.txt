@@ -13,7 +13,7 @@
 // 入力するトークンはBotトークンでなければなりません（ユーザートークンは機能しません）
 // Botトークンを取得する方法がわからない場合は、こちらのガイドを参照してください。
 // (英語): https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
-token = NzAzNTM5ODU5NjQ5OTg2NTYw.XqQEjQ.-dZix_CRCw5tiQRDgECB0R7Ayiw
+token = NzAzNTM5ODU5NjQ5OTg2NTYw.XqQEjQ.8k4NAPlVHhvnb5aHj5Ow654S5KM
 
 
 // この項目は、Botの所有者を設定します
